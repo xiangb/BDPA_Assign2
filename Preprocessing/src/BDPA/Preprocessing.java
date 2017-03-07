@@ -3,6 +3,7 @@ package BDPA;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
+import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
@@ -19,53 +20,12 @@ import org.apache.hadoop.util.ToolRunner;
 
 
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
-
-
-
-
 
 
 public class Preprocessing extends Configured implements Tool {
 
-     /* Initialise one time a hashmap to store each word of the vocabulary and its global 
-        * frequency in pg100.txt from the wordcountpg100.txt */   
-
-   static HashMap<String,Integer> map_word_count = new HashMap<String,Integer>();
-	
-   public Preprocessing() throws NumberFormatException, IOException{
- 	  
-      /*Default constructor to store (word,frequency) pair 
-       * in the created hashmap from the file wordcountpg100.txt */
-
-	   BufferedReader Reader_count = new BufferedReader(
-	              new FileReader(
-	                      new File(
-	                             "/home/cloudera/workspace/Assignment2/wordcountpg100.txt"
-	                      		)));
-	      
-	      String line;
-
-	      while ((line = Reader_count.readLine()) != null)
-	      {
-	          String[] parts = line.split(",", 2);
-	          if (parts.length >= 2)
-	          {
-	              //String word  = parts[0];
-	              //int count = Integer.parseInt(parts[1]);
-	              map_word_count.put(parts[0].toString(),new Integer (parts[1]));
-	          } else {
-	              System.out.println("ignoring line: " + line);
-	          }
-	      }
-	      Reader_count.close();
-	   
-   }
    
    public static enum COUNTER {
 		  COUNT_LINES
@@ -107,9 +67,12 @@ public class Preprocessing extends Configured implements Tool {
       job.waitForCompletion(true);
 
       // Write counter to file
-      int counter = job.getCounters().findCounter(COUNTER.COUNT_LINES).getValue();
-      Path outFile = new Path("NB_LINES_AFTER_Preprocessing.txt");
-      BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(fs.create(outFile, true)));
+      FileSystem fs = FileSystem.newInstance(getConf());
+      long counter = job.getCounters().findCounter(COUNTER.COUNT_LINES).getValue();
+      Path outFile = new Path(new Path(args[1]),"NB_LINES_AFTER_Preprocessing.txt");
+      BufferedWriter writer = new BufferedWriter(
+    		  					new OutputStreamWriter(
+    		  							fs.create(outFile, true)));
       writer.write(String.valueOf(counter));
       writer.close();
       
@@ -118,59 +81,34 @@ public class Preprocessing extends Configured implements Tool {
    
 
 
-	public static <K, V extends Comparable<? super V>> LinkedHashSet<String> 
-    sortByValue( java.util.Map<K, V> map ){
-    List<java.util.Map.Entry<K, V>> list = new LinkedList<>( map.entrySet() );
-    
-    // sort the list of pairs 
 
-    Collections.sort( list, new Comparator<java.util.Map.Entry<K, V>>()
-    {
-        @Override
-        public int compare( java.util.Map.Entry<K, V> o1, java.util.Map.Entry<K, V> o2 )
-        {
-            return o1.getValue().compareTo(o2.getValue());
-        }
-    } );
-    
-    // Create LinkedHashset to store the word in ascending order
-
-    LinkedHashSet<String> result = new LinkedHashSet<String>();
-
-    for (java.util.Map.Entry<K, V> entry : list)
-    {
-        result.add(entry.getKey().toString());
-    }
-    
-    return result;
-    }
    
    public static class Map extends Mapper<LongWritable, Text, LongWritable, Text> {
       
       private Text word = new Text();
+      private HashSet<String> stopwords = new HashSet<String>();
+      
+      public Map() throws NumberFormatException, IOException{
+    	  // Default constructor to load one time the stop words file
+          /* Read file of stopwords*/
+          BufferedReader Reader = new BufferedReader(
+                  new FileReader(
+                          new File(
+                                  "/home/cloudera/workspace/Assignment1/stopwords.txt")));
 
+          /* Add each line (word) in the variable stopwords*/
+          String pattern;
+          while ((pattern = Reader.readLine()) != null) {
+              stopwords.add(pattern.toLowerCase());
+              }
+          
+          Reader.close();
+    	
+      }
       @Override
       public void map(LongWritable key, Text value, Context context)
               throws IOException, InterruptedException {
 
-
-
-        /* Initialize a hashset variable for stopwords, set of strings without duplicates*/
-        HashSet<String> stopwords = new HashSet<String>();
-
-        /* Read file of stopwords*/
-        BufferedReader Reader = new BufferedReader(
-                new FileReader(
-                        new File(
-                                "/home/cloudera/workspace/Assignment1/stopwords.txt")));
-
-        /* Add each line (word) in the variable stopwords*/
-        String pattern;
-        while ((pattern = Reader.readLine()) != null) {
-            stopwords.add(pattern.toLowerCase());
-            }
-        
-        Reader.close();
         
         // Check if the line is empty
         
@@ -193,11 +131,70 @@ public class Preprocessing extends Configured implements Tool {
    }
 
    
-   
+ 	public static <K, V extends Comparable<? super V>> LinkedHashSet<String> 
+    sortByValue( HashMap<K, V> map ){
+    List<java.util.Map.Entry<K, V>> list = new LinkedList<>( map.entrySet() );
+    
+    // sort the list of pairs 
+
+    Collections.sort( list, new Comparator<java.util.Map.Entry<K, V>>()
+    {
+        
+        public int compare( java.util.Map.Entry<K, V> o1, java.util.Map.Entry<K, V> o2 )
+        {
+            return (o1.getValue()).compareTo(o2.getValue());
+        }
+    } );
+    
+    // Create LinkedHashset to store the word in ascending order
+
+    LinkedHashSet<String> result = new LinkedHashSet<String>();
+
+    for (java.util.Map.Entry<K, V> entry : list)
+    {
+        result.add(entry.getKey().toString());
+    }
+    
+    return result;
+    }
    
    
    public static class Reduce extends Reducer<LongWritable, Text, LongWritable, Text> {
-      @Override
+     
+	   /* Initialise one time a hashmap to store each word of the vocabulary and its global 
+        * frequency in pg100.txt from the wordcountpg100.txt */   
+	 private static HashMap<String,Integer> map_word_count = new HashMap<String,Integer>();
+	 
+	 public Reduce() throws NumberFormatException, IOException{
+	 	 
+	      /*Default constructor to store (word,frequency) pair 
+	       * in the created hashmap from the file wordcountpg100.txt */
+
+		   BufferedReader Reader_count = new BufferedReader(
+		             new FileReader(
+		                      new File(
+		                              "/home/cloudera/workspace/Assignment2/wordcountpg100.txt"
+		                      		)));
+		      
+		      String line;
+
+		      while ((line = Reader_count.readLine()) != null)
+		      {
+		          String[] parts = line.split(",", 2);
+		          if (parts.length >= 2)
+		          {
+		             
+		              map_word_count.put(parts[0].toString(),new Integer (parts[1]));
+		          
+		          } else {
+		              System.out.println("ignoring line: " + line);
+		          }
+		      }
+		      Reader_count.close();
+		   
+	   } 
+	   
+  	 @Override
       public void reduce(LongWritable key, Iterable<Text> values, Context context)
               throws IOException, InterruptedException {
     	  
@@ -209,20 +206,19 @@ public class Preprocessing extends Configured implements Tool {
            * mapper key and the value is the global frequency with the static hashmap 
            * word_word_count containing the global frequency of word in pg100.txt*/
 
-         java.util.Map<String, Integer> map_word_count_key = new HashMap<String, Integer>();
-        
+         HashMap<String, Integer> map_word_count_key = new HashMap<String, Integer>();
+         
          for (Text val : values)
          {
         	 /*store the global frequency of each word for words corresponding to a same key*/
-          map_word_count_key.put(val.toString(),Preprocessing.map_word_count.get(val.toString()));
+          map_word_count_key.put(val.toString(),map_word_count.get(val.toString()));
 
          }
 
          
          // Sort Hashmap and return a LinkedHashset (to keep the order) with word in ascending order 
          // Using the sortByValue method 
-         
-
+	      
          LinkedHashSet<String> setvalue = new LinkedHashSet<String>();
          
          setvalue = sortByValue(map_word_count_key);
