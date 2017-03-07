@@ -131,32 +131,7 @@ public class Preprocessing extends Configured implements Tool {
    }
 
    
- 	public static <K, V extends Comparable<? super V>> LinkedHashSet<String> 
-    sortByValue( HashMap<K, V> map ){
-    List<java.util.Map.Entry<K, V>> list = new LinkedList<>( map.entrySet() );
-    
-    // sort the list of pairs 
 
-    Collections.sort( list, new Comparator<java.util.Map.Entry<K, V>>()
-    {
-        
-        public int compare( java.util.Map.Entry<K, V> o1, java.util.Map.Entry<K, V> o2 )
-        {
-            return (o1.getValue()).compareTo(o2.getValue());
-        }
-    } );
-    
-    // Create LinkedHashset to store the word in ascending order
-
-    LinkedHashSet<String> result = new LinkedHashSet<String>();
-
-    for (java.util.Map.Entry<K, V> entry : list)
-    {
-        result.add(entry.getKey().toString());
-    }
-    
-    return result;
-    }
    
    
    public static class Reduce extends Reducer<LongWritable, Text, LongWritable, Text> {
@@ -193,6 +168,34 @@ public class Preprocessing extends Configured implements Tool {
 		      Reader_count.close();
 		   
 	   } 
+
+
+    public static <K, V extends Comparable<? super V>> LinkedHashSet<String> 
+    sortByValue( HashMap<K, V> map ){
+        List<java.util.Map.Entry<K, V>> list = new LinkedList<>( map.entrySet() );
+        
+        // sort the list of pairs 
+
+        Collections.sort( list, new Comparator<java.util.Map.Entry<K, V>>()
+        {
+            
+            public int compare( java.util.Map.Entry<K, V> o1, java.util.Map.Entry<K, V> o2 )
+            {
+                return (o1.getValue()).compareTo(o2.getValue());
+            }
+        } );
+        
+        // Create LinkedHashset to store the word in ascending order
+
+        LinkedHashSet<String> result = new LinkedHashSet<String>();
+
+        for (java.util.Map.Entry<K, V> entry : list)
+        {
+            result.add(entry.getKey().toString());
+        }
+        
+        return result;
+    }
 	   
   	 @Override
       public void reduce(LongWritable key, Iterable<Text> values, Context context)
