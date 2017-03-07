@@ -19,10 +19,6 @@ import org.apache.hadoop.util.ToolRunner;
 
 
 
-
-
-
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -36,13 +32,16 @@ import java.util.*;
 
 
 public class Preprocessing extends Configured implements Tool {
-   
+
+     /* Initialise one time a hashmap to store each word of the vocabulary and its global 
+        * frequency in pg100.txt from the wordcountpg100.txt */   
+
    static HashMap<String,Integer> map_word_count = new HashMap<String,Integer>();
 	
    public Preprocessing() throws NumberFormatException, IOException{
  	  
-	   /* Initialise one time a hashmap to store each word of the vocabulary and its global 
-        * frequency in pg100.txt from the wordcountpg100.txt */
+      /*Default constructor to store (word,frequency) pair 
+       * in the created hashmap from the file wordcountpg100.txt */
 
 	   BufferedReader Reader_count = new BufferedReader(
 	              new FileReader(
@@ -106,15 +105,25 @@ public class Preprocessing extends Configured implements Tool {
       FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
       job.waitForCompletion(true);
+
+      // Write counter to file
+      int counter = job.getCounters().findCounter(COUNTER.COUNT_LINES).getValue();
+      Path outFile = new Path("NB_LINES_AFTER_Preprocessing.txt");
+      BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(fs.create(outFile, true)));
+      writer.write(String.valueOf(counter));
+      writer.close();
       
       return 0;
    }
    
+
+
 	public static <K, V extends Comparable<? super V>> LinkedHashSet<String> 
-    sortByValue( java.util.Map<K, V> map )
-{
+    sortByValue( java.util.Map<K, V> map ){
     List<java.util.Map.Entry<K, V>> list = new LinkedList<>( map.entrySet() );
     
+    // sort the list of pairs 
+
     Collections.sort( list, new Comparator<java.util.Map.Entry<K, V>>()
     {
         @Override
@@ -124,7 +133,7 @@ public class Preprocessing extends Configured implements Tool {
         }
     } );
     
-    
+    // Create LinkedHashset to store the word in ascending order
 
     LinkedHashSet<String> result = new LinkedHashSet<String>();
 
@@ -134,10 +143,10 @@ public class Preprocessing extends Configured implements Tool {
     }
     
     return result;
-}
+    }
    
    public static class Map extends Mapper<LongWritable, Text, LongWritable, Text> {
-      /*private IntWritable doc_id = new IntWritable();*/
+      
       private Text word = new Text();
 
       @Override
@@ -163,7 +172,7 @@ public class Preprocessing extends Configured implements Tool {
         
         Reader.close();
         
-       
+        // Check if the line is empty
         
         if (!value.toString().isEmpty())
         {
@@ -204,7 +213,7 @@ public class Preprocessing extends Configured implements Tool {
         
          for (Text val : values)
          {
-        	 /*store the global frequency of each word for the corresponding word*/
+        	 /*store the global frequency of each word for words corresponding to a same key*/
           map_word_count_key.put(val.toString(),Preprocessing.map_word_count.get(val.toString()));
 
          }
@@ -218,7 +227,7 @@ public class Preprocessing extends Configured implements Tool {
          
          setvalue = sortByValue(map_word_count_key);
          
-         /* Concatenate the words in the good order */
+         /* Concatenate the words in ascending order of frequency */
          
          StringBuilder reducedvalue = new StringBuilder();
          for (String val : setvalue) {
@@ -230,9 +239,9 @@ public class Preprocessing extends Configured implements Tool {
             reducedvalue.append(val);
          }
          
-         
+         // Increment counter
          context.getCounter(COUNTER.COUNT_LINES).increment(1);
-         // write for each linem the words in the ascending order
+         // write for each line the words in the ascending order
          context.write(key, new Text(reducedvalue.toString()));
          }
       
