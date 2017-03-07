@@ -22,6 +22,7 @@ import org.apache.hadoop.util.ToolRunner;
 
 
 
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -39,7 +40,10 @@ public class Preprocessing extends Configured implements Tool {
    static HashMap<String,Integer> map_word_count = new HashMap<String,Integer>();
 	
    public Preprocessing() throws NumberFormatException, IOException{
-	   
+ 	  
+	   /* Initialise one time a hashmap to store each word of the vocabulary and its global 
+        * frequency in pg100.txt from the wordcountpg100.txt */
+
 	   BufferedReader Reader_count = new BufferedReader(
 	              new FileReader(
 	                      new File(
@@ -106,7 +110,31 @@ public class Preprocessing extends Configured implements Tool {
       return 0;
    }
    
-   
+	public static <K, V extends Comparable<? super V>> LinkedHashSet<String> 
+    sortByValue( java.util.Map<K, V> map )
+{
+    List<java.util.Map.Entry<K, V>> list = new LinkedList<>( map.entrySet() );
+    
+    Collections.sort( list, new Comparator<java.util.Map.Entry<K, V>>()
+    {
+        @Override
+        public int compare( java.util.Map.Entry<K, V> o1, java.util.Map.Entry<K, V> o2 )
+        {
+            return o1.getValue().compareTo(o2.getValue());
+        }
+    } );
+    
+    
+
+    LinkedHashSet<String> result = new LinkedHashSet<String>();
+
+    for (java.util.Map.Entry<K, V> entry : list)
+    {
+        result.add(entry.getKey().toString());
+    }
+    
+    return result;
+}
    
    public static class Map extends Mapper<LongWritable, Text, LongWritable, Text> {
       /*private IntWritable doc_id = new IntWritable();*/
@@ -139,6 +167,7 @@ public class Preprocessing extends Configured implements Tool {
         
         if (!value.toString().isEmpty())
         {
+        	//if the line is not empty, parse it
         for (String token: value.toString().replaceAll("[^a-zA-Z0-9 ]", " ").split("\\s+")) {
 
           /* if word not in stop words list then we set word with the value then write it into context */
@@ -164,80 +193,32 @@ public class Preprocessing extends Configured implements Tool {
               throws IOException, InterruptedException {
     	  
     	  
-    	  /* Initialise a hashmap to store each word of the vocabulary and its global 
-           * frequency in pg100.txt from the wordcountpg100.txt */
-          /*
-          HashMap<String, Integer> map_word_count = new HashMap<String, Integer>();
-          BufferedReader Reader_count = new BufferedReader(
-                  new FileReader(
-                          new File(
-                                 "/home/cloudera/workspace/Assignment2/wordcountpg100.txt"
-                          		)));
-          
-          String line;
 
-          while ((line = Reader_count.readLine()) != null)
-          {
-              String[] parts = line.split(",", 2);
-              if (parts.length >= 2)
-              {
-                  //String word  = parts[0];
-                  //int count = Integer.parseInt(parts[1]);
-                  map_word_count.put(parts[0].toString(),new Integer (parts[1]));
-              } else {
-                  System.out.println("ignoring line: " + line);
-              }
-          }
-          Reader_count.close(); */
     	  
-          /*
-          int i=1;
-          for (String name: Preprocessing.map_word_count.keySet()){
-        	  if (i<50){
-              String key1 =name.toString();
-              Integer value1 = map_word_count.get(name);  
-              System.out.println(key1 + " " + value1);  
-
-        	  }
-        	  i+=1;
-          	} */
-          
-          /*Create a reduced hashmap with only the words corresponding
-           * to the key and its frequency */
+ 
+          /*Create a reduced hashmap where each key is a word for the same 
+           * mapper key and the value is the global frequency with the static hashmap 
+           * word_word_count containing the global frequency of word in pg100.txt*/
 
          java.util.Map<String, Integer> map_word_count_key = new HashMap<String, Integer>();
         
          for (Text val : values)
          {
-        	 /*store the global frequency of each word for the corresponding key*/
+        	 /*store the global frequency of each word for the corresponding word*/
           map_word_count_key.put(val.toString(),Preprocessing.map_word_count.get(val.toString()));
 
          }
-         /*
-         for (String name: map_word_count_key.keySet()){
-       	  
-             String key1 =name.toString();
-             Integer value1 = map_word_count_key.get(name);  
-             System.out.println(key1 + " " + value1);  
-
-       	  }*/
-         
-         // Sort Hashmap and return a Hashset with word in ascending order 
-         // Using the Sort class
-         
-         
 
          
+         // Sort Hashmap and return a LinkedHashset (to keep the order) with word in ascending order 
+         // Using the sortByValue method 
          
-         
-
-         
-         /* Create for each key, the list of unique words in the line
-          * by ascending order */
 
          LinkedHashSet<String> setvalue = new LinkedHashSet<String>();
          
-         setvalue = BDPA.Sort.sortByValue(map_word_count_key);
+         setvalue = sortByValue(map_word_count_key);
+         
+         /* Concatenate the words in the good order */
          
          StringBuilder reducedvalue = new StringBuilder();
          for (String val : setvalue) {
@@ -249,7 +230,9 @@ public class Preprocessing extends Configured implements Tool {
             reducedvalue.append(val);
          }
          
+         
          context.getCounter(COUNTER.COUNT_LINES).increment(1);
+         // write for each linem the words in the ascending order
          context.write(key, new Text(reducedvalue.toString()));
          }
       
