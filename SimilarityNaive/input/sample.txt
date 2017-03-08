@@ -1,0 +1,3000 @@
+0,ebook complete shakespeare works gutenberg project william
+78,shakespeare william
+101,anyone anywhere ebook cost use
+167,restrictions whatsoever copy almost give
+237,included license terms under re gutenberg project use
+306,online www org ebook gutenberg
+356,details copyrighted ebook below gutenberg project 
+424,guidelines file copyright follow please 
+494,title complete shakespeare works william
+546,author shakespeare william
+577,2011 september 100 posting ebook date 1
+623,1994 january release date
+654,language english
+677,ebook start complete shakespeare works gutenberg project william 
+768,produced future inc library world
+843,100th presented file etext gutenberg project
+909,cooperation presented inc library world
+975,cdroms future library shakespeare gutenberg project
+1041,releases etexts placed domain public often
+1109,shakespeare
+1124,implications certain read etext copyright 
+1192,version complete works william electronic 
+1252,1993 1990 inc library copyright shakespeare world
+1319,benedictine illinois college etext provided gutenberg project
+1388,machine readable permission copies electronic
+1453,1 others distributed copies
+1516,personal used 2 distributed use
+1572,prohibited commercially commercial includes distribution
+1639,membership download charges service
+1702,cooperate proud library gutenberg project world 
+1768,presentation complete shakespeare works william
+1834,education however reading entertainment
+1900,shareware domain public neither library under nor
+1966,presentation future conditions charges
+2032,encouraged material access
+2098,allowed anyone charges give
+2172,print small complete shakespeare 
+2225,version complete works william electronic
+2283,1993 1990 inc library copyright shakespeare world
+2343,etext provided gutenberg project
+2390,benedictine illinois college permission
+2439,etexts unlike tm etext gutenberg project since many
+2504,materials methods protected copyright since
+2569,copy reputation effect project right use
+2635,distribute limited laws copyright
+2701,statement print conditions small
+2753,license 1
+2768,encouraged distribute electronic 
+2832,machine readable etext copies
+2895,personal 2 1 others use 
+2958,prohibited commercially commercial used distributed
+3016,download includes distribution charges service
+3080,membership
+3107,b license conditions honor subject 
+3170,provisions replacement refund print small
+3232,statement exact distribute etext copies
+3296,statement including print small copies
+3355,resulting proprietary compressed including form
+3421,software processing hypertext word
+3478,either 
+3491,displayed clearly readable etext does 1 
+3557,characters intended contain those 
+3618,tilde asterisk author although work 
+3678,underline punctuation characters convey used 
+3740,additional characters author intended used 
+3805,indicate hypertext links 
+3842,convertible readily reader etext 2 
+3904,equivalent ebcdic ascii expense form plain 
+3966,displays program instance case etext 
+4032,processors word 
+4068,agree provide request 3 
+4126,additional expense copy fee cost plain etext 
+4191,ascii 
+4203,disclaimer warranty damages limited 2
+4250,incomplete defect contain form etext
+4312,data inaccurate transcription errors corrupt copyright
+4378,damaged disk virus infringement computer defective
+4444,codes equipment damage read cannot
+4508,described replacement refund below right
+4571,party receive etext project
+4636,disclaims liability tm etext gutenberg project
+4702,legal expenses costs damages fees including
+4767,liability remedies negligence strict under
+4829,warranty limited including contract breach
+4891,consequential punitive incidental damages indirect even
+4957,possibility damages notice give
+5012,90 defect discover receiv days etext within
+5078,ing refund paid receive money
+5143,explanatory sending note within
+5206,physical received person
+5270,medium note person return
+5334,alternatively replacement copy choose give
+5396,electronically received choose person
+5451,alternatively opportunity receive second give
+5510,electronically
+5529,otherwise etext provided
+5589,implied warranties express kind
+5653,medium including etext
+5713,merchantability warranties fitness limited
+5772,disclaimers states allow particular purpose
+5834,consequen exclusion implied warranties limitation
+5899,tial exclusions disclaimers damages above
+5962,legal apply rights
+6016,indemnity indemnify 3 project hold
+6077,lia directors agents members harmless officers
+6141,bility legal fees including expense arise cost
+6201,indirectly directly following
+6266,alteration b distribution etext cause
+6322,modification defect c addition etext
+6384,don 4 want money send even
+6449,dedicated increasing number gutenberg project
+6509,licensed domain freely public works distributed
+6574,gratefully accepts form machine readable project
+6633,scanning ocr machines software contributions money
+6697,licenses etexts domain royalty public free copyright
+6757,pro whatever paid money else
+6821,ject association benedictine illinois college gutenberg
+6884,kramer attorney b print small charles
+6936,212 tel 5093 compuserve 2026 254 72600 internet com
+6995,print small complete shakespeare 
+7049,08 93 12 print v small 
+7079,version complete works william electronic 
+7139,1993 1990 inc library copyright shakespeare world
+7206,benedictine illinois college etext provided gutenberg project
+7275,machine readable permission copies electronic
+7340,1 others distributed copies
+7403,personal used 2 distributed use
+7459,prohibited commercially commercial includes distribution
+7526,membership download charges service
+7595,1609
+7603,sonnets
+7618,shakespeare william
+7648,1 
+7672,increase creatures fairest desire 
+7718,thereby rose beauty die might 
+7765,riper decease 
+7809,memory heir tender might bear 
+7851,contracted bright thine eyes 
+7900,fuel substantial flame feed self light st 
+7957,famine abundance making lies 
+7998,foe cruel self sweet 
+8048,ornament fresh world art 
+8097,gaudy herald spring 
+8137,buriest bud content thine within 
+8182,niggarding churl mak waste tender st 
+8230,glutton pity else world 
+8276,due eat grave world thee 
+8332,2 
+8356,winters besiege forty brow 
+8402,trenches dig deep field beauty 
+8450,gazed livery proud youth 
+8495,tattered weed held small worth 
+8543,asked beauty lies being 
+8591,lusty treasure days 
+8636,sunken deep thine within eyes 
+8681,thriftless eating praise shame 
+8733,deserved praise beauty use 
+8784,couldst child answer fair mine 
+8835,sum excuse count 
+8882,proving succession beauty thine 
+8925,new art 
+8974,warm feel cold blood st 
+9033,3 
+9057,viewest glass face look tell 
+9110,form face another 
+9160,renewest repair fresh whose 
+9208,unbless beguile dost mother world 
+9261,uneared womb whose fair 
+9308,tillage disdains husbandry 
+9350,tomb fond 
+9392,posterity stop self love 
+9431,glass mother art thee 
+9478,prime april lovely calls back 
+9523,windows age through shalt thine 
+9574,wrinkles despite golden 
+9619,remembered live 
+9663,image single dies thine die thee 
+9715,4 
+9739,loveliness unthrifty spend dost why 
+9784,legacy self beauty 
+9822,bequest lend gives nature doth 
+9871,frank lends free those being 
+9919,niggard beauteous abuse dost why 
+9966,largess bounteous given give thee 
+10011,profitless usurer dost use why 
+10050,sums sum canst live 
+10096,traffic having self alone 
+10139,deceive self dost sweet 
+10188,calls nature gone thee 
+10235,acceptable audit canst leave 
+10278,tombed unused beauty thee 
+10327,executor lives used th 
+10373,5 
+10397,frame hours work gentle those 
+10444,gaze dwell lovely eye doth 
+10490,tyrants same play 
+10533,unfair excel fairly doth 
+10577,resting leads summer 
+10619,confounds hideous winter 
+10665,checked frost sap lusty leaves quite gone 
+10720,snowed bareness beauty er 
+10768,distillation summer left 
+10812,liquid pent glass prisoner walls 
+10857,bereft effect beauty 
+10901,remembrance nor 
+10943,distilled flowers winter meet though 
+11000,leese substance lives show still sweet 
+11066,6 
+11090,deface ragged winter hand 
+11135,distilled summer ere thee 
+11180,vial treasure place sweet 
+11231,killed treasure self beauty ere 
+11280,usury forbidden use 
+11316,happies loan willing pay those 
+11366,breed self another thee 
+11412,happier ten times 
+11455,happier ten times self art 
+11505,refigured ten times thine thee 
+11550,depart shouldst death 
+11603,posterity leaving living thee 
+11640,willed self fair art 
+11692,worms conquest heir thine death 
+11751,7 
+11775,orient lo gracious light 
+11819,lifts burning each under eye head 
+11864,appearing homage sight new doth 
+11907,serving sacred looks majesty 
+11949,climbed steep hill heavenly having 
+11999,resembling middle strong age youth 
+12045,adore mortal looks beauty still 
+12089,pilgrimage attending golden 
+12128,highmost pitch car weary 
+12176,reeleth feeble age 
+12220,converted duteous fore eyes 
+12265,tract low another look 
+12309,noon going self 
+12355,unlooked diest unless son 
+12405,8 
+12429,sadly music hear st why 
+12477,sweets delights joy war 
+12529,gladly receiv lov st why 
+12586,annoy receiv pleasure else thine st 
+12634,tuned concord sounds true 
+12679,unions offend married ear thine 
+12721,confounds sweetly chide thee 
+12770,singleness shouldst parts bear 
+12822,string mark husband another sweet 
+12871,ordering mutual strikes each 
+12915,resembling sire happy child mother 
+12964,pleasing sing note 
+13010,speechless seeming song many whose being 
+13062,single sings prove wilt none thee 
+13122,9 
+13146,wet widow eye fear 
+13186,consum single self life st 
+13234,issueless hap ah shalt die 
+13277,makeless wail wife world thee 
+13327,widow weep still world 
+13374,behind form left hast thee 
+13421,private widow keep 
+13464,shape children husband mind eyes 
+13516,unthrift spend world look doth 
+13565,enjoys shifts place still world 
+13621,waste beauty end world hath 
+13669,destroys unused user kept 
+13713,sits toward bosom others love 
+13759,commits murd rous shame himself 
+13814,10 
+13839,deny shame bear st love 
+13887,unprovident self art 
+13927,beloved grant wilt many art 
+13976,evident lov none st 
+14022,possessed murd rous hate art 
+14072,conspire stick gainst self st 
+14128,ruinate roof seeking beauteous 
+14170,repair chief desire 
+14217,change mind thought 
+14269,lodged fairer hate gentle love 
+14318,presence gracious kind 
+14362,hearted least self prove kind 
+14409,self another love thee 
+14453,beauty thine live still thee 
+14507,11 
+14532,wane grow fast shalt st 
+14584,departest thine 
+14636,youngly bestow fresh blood st 
+14690,convertest mayst youth thine call 
+14749,herein increase wisdom lives beauty 
+14795,decay folly cold age without 
+14839,minded cease times 
+14889,threescore year world 
+14939,store nature whom those hath 
+14989,featureless barrenly harsh perish rude 
+15039,endowed gave whom best look thee 
+15090,bounteous cherish bounty gift shouldst 
+15147,carved thereby meant seal thee 
+15201,print copy shouldst die 
+15259,12 
+15284,tells clock count 
+15334,sunk hideous brave night 
+15382,violet prime past behold 
+15422,silvered curls sable white er 
+15471,lofty trees barren leaves 
+15515,erst canopy herd heat 
+15559,sheaves girded summer green 
+15606,bristly bier borne beard white 
+15657,question beauty 
+15698,wastes among 
+15745,beauties sweets forsake themselves since 
+15797,grow fast others die 
+15841,scythe defence gainst 
+15897,breed takes brave save hence thee 
+15957,13 
+15982,self love 
+16029,longer self yours live 
+16079,prepare coming end against 
+16126,semblance sweet give 
+16174,lease beauty hold 
+16223,determination find 
+16263,decease self 
+16309,issue form bear sweet 
+16363,lets decay fall house fair 
+16406,uphold husbandry might honour 
+16449,stormy gusts winter against 
+16493,eternal barren rage cold death 
+16537,unthrifts dear none love 
+16587,son father 
+16635,14 
+16660,judgement stars pluck 
+16707,astronomy methinks 
+16745,luck evil tell 
+16787,dearths seasons plagues quality 
+16835,minutes brief fortune nor tell 
+16879,pointing rain thunder wind each 
+16927,princes 
+16970,predict oft find heaven 
+17011,derive knowledge thine eyes 
+17057,constant stars read art 
+17103,thrive beauty together truth 
+17148,convert store wouldst self 
+17200,prognosticate else thee 
+17243,date doom beauty truth end 
+17299,15 
+17324,consider grows 
+17366,perfection moment holds 
+17410,presenteth huge stage nought shows 
+17462,influence comment whereon secret stars 
+17512,plants increase perceive men 
+17560,cheered checked sky self same even 
+17610,decrease vaunt sap youthful height 
+17662,memory brave wear state 
+17707,inconstant conceit stay 
+17752,sets rich sight youth 
+17800,debateth wasteful decay 
+17843,sullied change youth night 
+17892,war love 
+17939,engraft takes new 
+17989,16 
+18014,mightier wherefore 
+18057,tyrant bloody war 
+18099,fortify decay self 
+18138,rhyme barren blessed means 
+18187,top hours happy stand 
+18231,unset gardens maiden many 
+18269,flowers virtuous living wish bear 
+18322,liker painted counterfeit 
+18367,lines repair life 
+18415,pencil pupil pen 
+18461,inward outward neither worth fair nor 
+18505,self live eyes men 
+18552,keeps self still give 
+18604,skill drawn live sweet 
+18662,17 
+18687,verse believe 
+18732,filled deserts high 
+18782,tomb knows though heaven 
+18829,hides shows parts half life 
+18886,write beauty eyes 
+18931,numbers graces number fresh 
+18979,poet age lies 
+19024,touched touches earthly faces heavenly ne er 
+19078,yellowed papers age 
+19127,scorned less truth tongue men 
+19182,termed rights poet rage true 
+19231,stretched metre antique song 
+19274,alive child yours 
+19325,rhyme twice live 
+19380,18 
+19405,compare summer thee 
+19448,temperate lovely art 
+19492,darling buds winds rough shake 
+19541,lease date summer short hath 
+19590,shines sometime hot eye heaven 
+19636,dimmed complexion often gold 
+19680,declines sometime fair 
+19727,untrimmed changing chance course nature 
+19780,fade eternal summer 
+19822,ow possession lose fair nor st 
+19870,brag wand shade rest death nor 
+19923,lines eternal grow st 
+19970,breathe eyes men 
+20019,gives lives life thee 
+20077,19 
+20102,paws devouring blunt lion 
+20148,brood devour earth sweet 
+20198,jaws tiger keen fierce teeth pluck 
+20252,phoenix lived burn blood 
+20302,seasons fleet sorry glad st 
+20351,footed whate swift wilt er 
+20398,fading sweets wide world 
+20446,crime heinous forbid thee 
+20491,carve brow hours fair love 
+20542,antique lines pen draw thine nor 
+20593,untainted allow course 
+20634,succeeding pattern beauty men 
+20677,despite worst wrong 
+20728,verse young live love 
+20780,20 
+20805,painted nature woman face hand 
+20855,passion mistress hast master 
+20903,acquainted gentle woman heart 
+20948,shifting fashion change women false 
+21001,rolling theirs bright less false eye 
+21059,gazeth gilding whereupon object 
+21102,hues controlling hue 
+21147,amazeth steals souls women eyes men 
+21201,created wert woman 
+21245,doting wrought fell nature till thee 
+21295,defeated addition thee 
+21335,adding purpose 
+21381,pricked pleasure women since thee 
+21439,treasure use mine love 
+21500,21 
+21525,muse 
+21568,stirred verse painted beauty 
+21613,ornament self use heaven doth 
+21658,rehearse fair doth 
+21705,couplement compare making proud 
+21745,gems moon rich sun sea earth 
+21799,april flowers rare born things 
+21855,rondure hems huge air heaven 
+21903,write truly true love 
+21945,believe fair love 
+21989,bright child mother though 
+22036,candles fixed air gold those heaven 
+22084,hearsay 
+22134,sell praise purpose 
+22187,22 
+22212,persuade glass 
+22256,date youth 
+22302,furrows behold thee 
+22347,expiate days death look 
+22392,cover beauty doth thee 
+22437,seemly raiment heart 
+22479,breast thine live doth 
+22529,elder art 
+22571,wary thyself therefore love 
+22614,self thee 
+22658,chary bearing keep heart 
+22706,faring babe tender nurse ill 
+22751,presume slain heart mine 
+22801,gav back thine st give 
+22855,23 
+22880,unperfect actor stage 
+22919,beside put part fear 
+22964,replete fierce rage 
+23016,weakens abundance strength whose heart 
+23069,forget trust fear 
+23111,rite ceremony perfect love 
+23151,decay strength seem mine love 
+23201,ercharged burthen might mine love 
+23255,eloquence looks 
+23296,presagers dumb speaking breast 
+23341,recompense plead look love 
+23389,expressed tongue hath 
+23445,silent writ learn read hath love 
+23494,belongs fine wit eyes hear love 
+23549,24 
+23574,stelled played painter eye mine hath 
+23628,table form beauty heart 
+23671,frame held wherein body tis 
+23714,perspective painter best art 
+23759,painter skill through 
+23810,pictured image lies find true 
+23858,shop hanging bosom still 
+23904,glazed windows thine eyes hath 
+23953,turns done eyes 
+24005,shape drawn thine eyes mine 
+24057,windows breast sun through 
+24108,peep delights gaze therein thee 
+24154,cunning want grace eyes art 
+24206,draw heart 
+24264,25 
+24289,stars favour those 
+24338,titles boast public proud honour 
+24382,bars triumph whilst fortune whom 
+24428,unlooked joy honour 
+24471,favourites spread leaves princes fair 
+24526,marigold sun eye 
+24567,buried pride themselves lies 
+24613,frown glory die 
+24656,famoused painful warrior fight 
+24699,foiled victories thousand once 
+24742,razed quite book honour 
+24785,toiled forgot rest 
+24833,beloved happy love 
+24876,removed remove nor 
+24924,26 
+24949,vassalage whom love lord 
+24990,strongly knit merit duty hath 
+25031,embassage written send thee 
+25072,witness duty wit show 
+25112,duty wit poor mine 
+25156,wanting bare seem words show 
+25208,conceit hope thine 
+25254,naked bestow thought soul 
+25307,guides whatsoever moving star till 
+25354,graciously aspect points fair 
+25399,tattered apparel puts loving 
+25442,respect worthy show sweet 
+25485,boast dare love thee 
+25535,mayst prove show head till 
+25599,27 
+25624,toil weary haste bed 
+25666,respose tired travel limbs dear 
+25715,journey begins head 
+25755,expired work body mind 
+25803,abide thoughts far 
+25852,zealous pilgrimage intend thee 
+25892,drooping eyelids wide open keep 
+25935,darkness looking blind 
+25982,imaginary sight save soul 
+26021,sightless presents shadow view 
+26066,ghastly hung jewel night 
+26112,beauteous black new makes face night 
+26166,limbs lo mind thus night 
+26214,quiet self find thee 
+26265,28 
+26290,plight happy return 
+26331,debarred benefit rest 
+26372,eased oppression night 
+26420,oppressed night 
+26468,reign enemies either each though 
+26515,torture consent shake hands 
+26559,complain toil 
+26601,toil farther far off still thee 
+26649,bright please art tell 
+26698,blot clouds dost grace heaven 
+26752,complexioned swart flatter night 
+26798,twire sparkling gild stars even st 
+26855,daily sorrows longer draw doth 
+26903,nightly stronger length seem grief night doth 
+26969,29 
+26994,disgrace fortune eyes men 
+27043,outcast beweep alone state 
+27083,bootless deaf cries trouble heaven 
+27134,fate curse self look 
+27178,wishing rich hope 
+27223,featured possessed friends 
+27278,desiring scope art 
+27328,contented enjoy least 
+27371,despising almost self thoughts 
+27422,haply state thee 
+27467,arising lark break 
+27512,hymns sullen gate sings earth heaven 
+27564,remembered brings wealth sweet love 
+27619,scorn kings change state 
+27677,30 
+27702,sessions silent thought sweet 
+27751,summon remembrance past things 
+27794,sought sigh lack many 
+27839,wail woes waste new dear 
+27891,unused flow drown eye 
+27935,dateless hid precious friends night death 
+27990,cancelled afresh woe weep since love 
+28042,vanished expense moan sight many th 
+28092,foregone grievances grieve 
+28137,heavily woe er tell 
+28178,bemoaned moan fore account sad 
+28220,paid pay new 
+28262,while friend dear thee 
+28314,restored losses sorrows end 
+28365,31 
+28390,endeared bosom hearts 
+28432,lacking supposed dead 
+28474,reigns parts loving love 
+28528,buried thought friends those 
+28577,obsequious tear holy many 
+28616,religious stol n eye dear mine hath love 
+28666,interest appear dead 
+28712,hidden removed lie things thee 
+28759,buried grave live art doth love 
+28810,trophies hung lovers gone 
+28855,parts give thee 
+28902,due alone thine many 
+28943,images loved view thee 
+28986,hast 
+29039,32 
+29064,survive contented 
+29106,churl cover dust bones death 
+29162,survey shalt re fortune once 
+29206,deceased lines lover rude poor 
+29254,bett compare ring 
+29302,outstripped pen though 
+29350,reserve rhyme love 
+29400,exceeded happier height men 
+29442,vouchsafe loving thought 
+29490,muse growing grown age friend 
+29544,dearer birth brought love 
+29593,equipage ranks march better 
+29634,poets died prove since better 
+29681,style theirs read love 
+29743,33 
+29768,glorious morning seen full many 
+29813,tops mountain flatter sovereign eye 
+29862,meadows kissing golden green face 
+29909,gilding alchemy streams heavenly pale 
+29956,basest permit ride clouds anon 
+29998,celestial rack ugly face 
+30039,forlorn visage hide world 
+30085,stealing unseen west disgrace 
+30132,morn shine early sun even 
+30176,splendour triumphant brow 
+30221,alack hour mine 
+30265,masked region cloud hath 
+30314,disdaineth whit love 
+30365,staineth suns stain sun heaven world 
+30431,34 
+30456,beauteous promise didst why 
+30504,cloak travel without forth 
+30550,ertake clouds base 
+30595,brav hiding smoke rotten ry 
+30640,cloud break through enough tis 
+30694,beaten storm rain dry face 
+30738,salve speak 
+30784,heals cures disgrace wound 
+30837,physic grief shame nor give 
+30883,repent loss still though 
+30933,lends relief offender weak sorrow th 
+30980,offence cross bears strong 
+31029,sheds pearl ah tears those love 
+31085,ransom deeds rich ill 
+31139,35 
+31164,grieved hast done 
+31216,fountains mud thorns roses silver 
+31264,eclipses clouds stain moon sun both 
+31312,bud loathsome canker sweetest lives 
+31359,faults even men 
+31403,authorizing trespass compare 
+31445,salving corrupting amiss self 
+31486,excusing sins 
+31531,sensual sense fault bring 
+31577,advocate adverse party 
+31615,commence plea lawful gainst self 
+31662,civil hate war love 
+31704,accessary needs 
+31744,sourly robs thief sweet 
+31800,36 
+31825,twain confess 
+31870,undivided although loves 
+31911,blots remain those 
+31959,borne alone help without 
+32002,respect loves 
+32048,separable spite lives though 
+32090,sole alter effect though love 
+32139,delight steal hours sweet doth love 
+32193,acknowledge evermore thee 
+32233,bewailed guilt lest shame thee 
+32281,kindness public honour nor 
+32325,unless honour name 
+32372,sort love thee 
+32418,report being mine 
+32472,37 
+32497,decrepit delight takes father 
+32536,active deeds child youth 
+32582,lame dearest spite fortune 
+32628,comfort worth truth 
+32675,wealth birth whether beauty wit 
+32764,entitled crowned parts sit 
+32806,engrafted store love 
+32849,despised lame poor nor 
+32895,substance shadow whilst doth give 
+32948,sufficed abundance 
+32988,glory part live 
+33028,wish best look thee 
+33078,ten happy times wish 
+33130,38 
+33155,invent muse subject want 
+33197,verse pour breathe while dost st 
+33252,argument excellent thine sweet 
+33296,rehearse vulgar paper 
+33335,aught thanks self give 
+33381,perusal sight worthy stand against 
+33424,dumb write cannot thee 
+33472,invention self light dost give 
+33521,tenth muse ten worth times 
+33572,rhymers invocate nine those 
+33619,calls forth bring thee 
+33669,outlive date eternal numbers 
+33710,curious muse slight days please 
+33763,pain praise thine mine 
+33821,39 
+33846,manners sing worth 
+33890,part better art 
+33934,praise self bring mine 
+33986,praise mine thee 
+34036,divided live even 
+34075,single lose dear name love 
+34121,separation give 
+34160,deserv due alone st thee 
+34208,torment absence wouldst prove 
+34256,sour leisure gave leave sweet 
+34306,entertain thoughts love 
+34354,sweetly deceive thoughts doth 
+34406,teachest twain 
+34457,praising remain hence doth 
+34510,40 
+34535,yea loves love 
+34585,hadst hast 
+34637,mayst call true love 
+34690,hadst thine mine 
+34742,receivest love 
+34790,usest blame cannot love thee 
+34838,deceivest blamed self 
+34887,refusest wilful taste self 
+34933,robbery thief forgive gentle 
+34974,poverty although steal thee 
+35018,greater knows grief love 
+35062,injury greater hate known wrong bear 
+35114,lascivious shows ill whom grace 
+35165,spites foes kill 
+35219,41 
+35244,commits liberty wrongs pretty those 
+35289,absent sometime heart 
+35334,befits years beauty full 
+35381,temptation follows still art 
+35429,won gentle therefore art 
+35474,assailed beauteous therefore art 
+35523,woos woman son 
+35567,prevailed sourly till leave 
+35616,mightst forbear seat ay 
+35664,straying chide beauty youth 
+35713,riot lead even thee 
+35755,twofold forced break truth art 
+35806,tempting hers beauty thee 
+35852,beauty false thine being 
+35900,42 
+35925,grief hast 
+35971,dearly loved 
+36017,wailing chief hath thee 
+36063,nearly touches loss love 
+36110,offenders excuse loving ye thus 
+36153,because dost st love 
+36209,abuse sake even doth 
+36255,suff approve sake ring friend 
+36306,gain loss lose love thee 
+36352,losing loss found friend hath 
+36403,twain lose each find both 
+36451,cross sake lay both 
+36497,joy friend 
+36547,flattery loves alone sweet 
+36601,43 
+36626,wink best eyes mine 
+36674,unrespected view things 
+36723,dreams sleep look thee 
+36773,darkly directed bright dark 
+36824,shadows bright shadow whose doth 
+36875,shadow form happy show 
+36924,clearer clear light 
+36973,unseeing shade shines eyes 
+37019,blessed eyes mine 
+37067,looking living thee 
+37108,imperfect shade dead fair night 
+37156,sightless heavy sleep through stay eyes doth 
+37208,nights days till thee 
+37257,nights dreams bright days show thee 
+37318,44 
+37343,substance dull flesh thought 
+37394,injurious distance stop 
+37440,space despite brought 
+37489,remote limits far dost stay 
+37538,although foot matter stand 
+37583,farthest removed earth thee 
+37629,jump nimble land sea thought both 
+37679,soon place 
+37728,kills ah thought 
+37778,lengths miles leap large gone art 
+37832,wrought water earth 
+37880,moan leisure attend 
+37927,receiving elements slow nought 
+37970,badges woe heavy either tears 
+38020,45 
+38045,purging slight air fire 
+38093,wherever abide both thee 
+38134,desire thought 
+38180,slide absent swift motion present 
+38229,quicker elements gone 
+38273,embassy tender love thee 
+38311,four alone being life 
+38358,sinks oppressed melancholy death 
+38409,recured composition until life 
+38449,returned messengers swift those thee 
+38498,assured back even 
+38543,recounting health fair 
+38587,longer glad joy told 
+38635,grow straight sad send back 
+38690,46 
+38715,mortal war eye heart mine 
+38758,divide conquest sight 
+38802,bar picture sight eye heart mine 
+38855,freedom right eye heart mine 
+38904,plead lie dost doth heart 
+38954,pierced crystal closet eyes 
+39000,defendant plea deny doth 
+39042,appearance says lies fair 
+39087,impanelled title side 
+39123,tenants quest thoughts heart 
+39173,determined verdict 
+39211,moiety clear eye dear part heart 
+39265,outward due eye part thus mine 
+39315,inward right heart love 
+39372,47 
+39397,league betwixt took eye heart mine 
+39445,turns each unto doth 
+39493,famished eye look mine 
+39539,smother sighs himself doth heart love 
+39592,picture feast eye doth love 
+39642,banquet painted bids heart 
+39687,guest eye another heart mine 
+39733,share thoughts part doth love 
+39783,picture either love 
+39823,self present still art 
+39868,farther move canst thoughts 
+39921,still thee 
+39970,picture sight sleep 
+40017,awakes delight eye heart 
+40073,48 
+40098,careful took 
+40139,truest bars trifle thrust each under 
+40183,unused stay might use 
+40222,wards falsehood trust sure hands 
+40274,trifles jewels whom 
+40318,greatest comfort grief worthy 
+40365,dearest care best mine 
+40410,vulgar prey thief left art 
+40454,locked chest thee 
+40497,feel save though art 
+40549,closure breast gentle within 
+40592,mayst whence pleasure part 
+40645,stol thence n wilt even fear 
+40694,thievish proves prize truth dear 
+40750,49 
+40775,against 
+40821,defects frown thee 
+40867,utmost sum cast hath love 
+40913,audit advised respects called 
+40958,strangely pass shalt against 
+41011,scarcely greet sun eye thine 
+41061,converted love 
+41106,gravity settled reasons find 
+41148,ensconce against 
+41191,desert knowledge within mine 
+41235,uprear self against hand 
+41280,lawful reasons guard part 
+41324,laws strength hast poor leave 
+41379,allege cause since why love 
+41430,50 
+41455,journey heavy 
+41493,travel weary seek end 
+41537,repose teach case doth 
+41584,measured miles far friend thus 
+41638,tired beast bears woe 
+41685,plods dully weight bear 
+41731,instinct wretch 
+41777,rider loved speed being thee 
+41828,provoke spur bloody cannot 
+41870,thrusts anger sometimes hide 
+41917,heavily answers groan 
+41959,spurring sharp side 
+42006,groan same mind put doth 
+42057,onward behind joy grief lies 
+42106,51 
+42131,slow excuse offence thus love 
+42176,bearer dull speed thee 
+42222,thence haste art why 
+42276,posting need return till 
+42316,beast excuse find poor 
+42363,extremity slow swift seem 
+42406,mounted spur wind though 
+42456,winged motion speed 
+42499,pace desire horse keep 
+42546,perfect desire therefore being st love 
+42598,neigh race fiery dull flesh 
+42648,jade excuse thus love 
+42698,wilful slow went going since thee 
+42747,towards run leave give thee 
+42805,52 
+42830,key blessed rich whose 
+42872,locked treasure bring sweet 
+42922,survey hour 
+42966,blunting seldom fine point pleasure 
+43017,feasts solemn rare therefore 
+43064,seldom year coming since set 
+43110,thinly placed stones worth 
+43158,carcanet jewels captain 
+43196,chest keeps 
+43241,wardrobe robe hide doth 
+43289,special blest instant 
+43336,unfolding imprisoned pride new 
+43378,worthiness scope blessed gives whose 
+43429,lacked triumph hope being 
+43482,53 
+43507,substance whereof 
+43556,millions shadows tend strange 
+43605,shade since hath 
+43652,shadow lend 
+43695,describe adonis counterfeit 
+43735,imitated poorly 
+43768,cheek helen beauty set art 
+43811,tires grecian painted new 
+43856,foison spring year speak 
+43904,shadow beauty show doth 
+43948,bounty appear doth 
+43989,blessed shape 
+44032,external part grace 
+44079,constant none heart 
+44136,54 
+44161,beauteous seem beauty doth 
+44208,ornament truth sweet doth give 
+44257,deem fairer rose looks fair 
+44303,odour live sweet doth 
+44351,blooms dye canker deep full 
+44397,tincture perfumed roses 
+44439,wantonly thorns hang play 
+44485,discloses masked buds summer breath 
+44538,virtue show 
+44582,unwooed unrespected fade live 
+44626,roses themselves die sweet 
+44671,odours deaths sweetest sweet 
+44723,beauteous lovely youth 
+44771,distills fade verse truth 
+44832,55 
+44857,monuments marble gilded nor 
+44897,powerful outlive rhyme princes 
+44946,contents shine bright 
+44999,besmeared unswept sluttish stone 
+45052,overturn statues wasteful war 
+45097,masonry broils root work 
+45141,mars burn quick fire war sword nor 
+45197,record memory living 
+45234,oblivious enmity gainst death 
+45277,pace room praise forth find still 
+45337,posterity even eyes 
+45374,ending doom wear world 
+45422,arise judgment self till 
+45470,dwell lovers live eyes 
+45524,56 
+45549,renew force sweet love 
+45595,blunter appetite edge 
+45640,allayed feeding 
+45683,sharpened former morrow might 
+45727,although fill love 
+45773,fulness hungry wink even till eyes 
+45827,kill morrow 
+45867,dulness perpetual spirit love 
+45916,interim ocean sad 
+45958,contracted shore parts new 
+46010,banks daily 
+46058,blest view return love 
+46105,winter care full being call 
+46155,wished rare thrice summer makes welcome 
+46219,57 
+46244,tend slave being 
+46291,hours times desire 
+46336,spend precious 
+46380,require services till nor 
+46420,chide dare hour end without world nor 
+46468,clock whilst sovereign watch 
+46520,bitterness sour absence nor 
+46565,adieu bid once servant 
+46611,jealous question dare thought nor 
+46659,suppose affairs 
+46705,nought slave sad stay 
+46754,happy save those 
+46803,fool true love 
+46851,thinks ill though 
+46904,58 
+46929,forbid slave god 
+46980,control pleasure times thought 
+47035,crave account hours hand th 
+47085,vassal leisure bound stay being 
+47134,beck suffer being 
+47174,imprisoned absence liberty th 
+47217,bide sufferance check tame patience each 
+47269,accusing injury without 
+47304,charter list strong 
+47353,privilage self 
+47399,belong doth 
+47443,crime doing self pardon 
+47487,waiting wait hell though 
+47533,blame pleasure ill 
+47585,59 
+47610,new 
+47657,beguiled brains hath 
+47707,amis labouring invention bear 
+47750,burthen former child second 
+47791,backward record look 
+47836,courses hundred five sun even 
+47880,antique image book show 
+47924,character mind since done 
+47970,might world 
+48020,composed frame wonder 
+48062,mended whether better 
+48112,revolution whether same 
+48150,former wits days sure 
+48192,admiring subjects worse praise given 
+48247,60 
+48272,pebbled waves shore towards 
+48325,hasten minutes end 
+48367,changing goes each place 
+48419,forwards sequent contend toil 
+48463,nativity main light once 
+48502,crawls maturity wherewith crowned being 
+48550,eclipses crooked glory gainst fight 
+48595,confound gift gave doth 
+48646,transfix flourish youth set doth 
+48695,delves parallels brow beauty 
+48741,rarities feeds truth nature 
+48785,scythe mow stands 
+48834,verse times hope stand 
+48886,praising despite cruel worth hand 
+48939,61 
+48964,image open keep 
+49010,eyelids weary heavy night 
+49050,slumbers broken desire dost 
+49100,shadows mock sight while thee 
+49148,send spirit st thee 
+49196,pry deeds far home 
+49238,shames idle hours find 
+49282,tenure scope jealousy 
+49323,though love 
+49371,keeps awake eye mine love 
+49415,defeat rest true doth mine love 
+49463,watchman sake play 
+49506,elsewhere wake whilst watch dost thee 
+49562,near far others off 
+49614,62 
+49639,possesseth sin self eye mine love 
+49684,soul part 
+49727,remedy sin 
+49767,grounded inward heart 
+49808,methinks gracious face mine 
+49852,account shape truth true 
+49899,define worth self mine 
+49944,worths surmount 
+49986,glass shows self indeed 
+50031,tanned beated chopt antiquity 
+50074,contrary quite read self mine love 
+50119,iniquity loving self 
+50158,praise self tis thee 
+50210,painting age days beauty 
+50260,63 
+50285,against love 
+50325,erworn crushed injurious hand 
+50377,drained filled brow hours blood 
+50434,wrinkles youthful lines morn 
+50485,travelled steepy age night hath 
+50529,beauties whereof those 
+50577,vanishing vanished sight 
+50621,stealing treasure spring 
+50666,fortify 
+50702,confounding knife cruel age against 
+50744,memory cut 
+50783,lover beauty though sweet life love 
+50834,lines black beauty seen 
+50886,green live still 
+50944,64 
+50969,defaced fell seen hand 
+51017,outworn cost buried rich age proud 
+51063,rased towers lofty sometime 
+51111,brass eternal mortal rage slave 
+51154,hungry ocean gain seen 
+51196,shore advantage kingdom 
+51238,watery soil firm main win 
+51283,increasing store loss 
+51335,interchange seen state 
+51382,confounded decay self state 
+51424,ruminate ruin taught thus hath 
+51464,love 
+51510,choose thought cannot death 
+51562,fears weep lose 
+51618,65 
+51643,boundless brass stone sea earth since nor 
+51700,ersways mortality sad power 
+51744,plea rage beauty hold 
+51792,stronger flower action whose 
+51838,honey summer breath hold 
+51885,wrackful batt siege days ring against 
+51934,impregnable stout rocks 
+51978,decays steel gates strong nor 
+52027,meditation alack fearful 
+52065,chest hid jewel lie best 
+52119,swift foot strong back hold hand 
+52172,spoil forbid beauty 
+52214,miracle unless none might 
+52259,ink shine bright black still love 
+52318,66 
+52343,restful tired cry death 
+52392,desert beggar behold born 
+52430,trimmed jollity needy 
+52471,unhappily purest forsworn faith 
+52511,misplaced shamefully gilded honour 
+52554,strumpeted rudely maiden virtue 
+52594,disgraced wrongfully perfection right 
+52640,disabled limping sway strength 
+52681,tied authority tongue art 
+52723,controlling skill folly doctor 
+52769,miscalled simplicity simple truth 
+52811,captive attending captain ill 
+52854,tired gone 
+52909,save alone die leave love 
+52959,67 
+52984,infection wherefore ah live 
+53031,impiety presence grace 
+53071,achieve advantage sin 
+53116,lace society self 
+53154,imitate painting cheek false why 
+53202,hue seeming steal living dead 
+53247,indirectly beauty seek poor why 
+53290,roses rose shadow since true 
+53334,bankrupt nature live why 
+53381,beggared lively veins blush through blood 
+53433,exchequer hath 
+53475,gains lives proud many 
+53519,stores wealth show 
+53571,bad days last since 
+53626,68 
+53651,outworn map cheek days thus 
+53697,lived flowers died beauty 
+53746,signs born bastard fair 
+53795,inhabit durst brow living 
+53833,tresses golden dead 
+53875,shorn sepulchres right 
+53920,live head second life 
+53961,fleece gay beauty ere another dead 
+54007,antique hours holy seen those 
+54052,ornament self without true 
+54095,making summer green another 
+54135,robbing dress beauty new 
+54178,map store nature doth 
+54223,yore beauty false show art 
+54275,69 
+54300,view parts eye those world doth thee 
+54355,mend want hearts thought 
+54408,tongues due souls voice give thee 
+54464,uttering bare foes commend truth even 
+54513,crowned outward praise thus 
+54565,tongues same thine those give thee 
+54620,accents confound praise 
+54664,shown farther seeing eye hath 
+54710,beauty mind look 
+54752,guess measure deeds 
+54800,churls although thoughts kind eyes 
+54862,add weeds flower smell rank fair 
+54913,matcheth odour show why 
+54959,soil grow common dost 
+55014,70 
+55039,blamed defect art 
+55088,slander mark fair 
+55133,ornament suspect beauty 
+55171,sweetest crow flies air heaven 
+55218,approve slander doth 
+55264,wooed greater worth being 
+55310,buds canker sweetest vice doth love 
+55358,unstained prime pure present st 
+55405,passed ambush days young hast 
+55454,assailed victor charged either being 
+55503,praise cannot 
+55551,enlarged tie evermore envy 
+55589,masked suspect ill show 
+55638,kingdoms shouldst owe hearts alone 
+55696,71 
+55721,mourn longer dead 
+55763,surly sullen bell hear 
+55808,warning fled world give 
+55852,vilest worms dwell vile world 
+55904,line remember read nay 
+55948,writ hand love 
+55993,forgot thoughts sweet 
+56043,thinking woe 
+56090,verse look 
+56132,compounded clay perhaps 
+56177,rehearse poor name 
+56221,decay even life love 
+56267,moan lest wise world look 
+56320,mock gone 
+56367,72 
+56392,recite task lest world 
+56439,lived merit love 
+56486,quite forget dear death love 
+56533,worthy prove 
+56576,devise virtuous unless lie 
+56622,desert mine 
+56665,deceased praise hang 
+56706,niggard impart willingly truth 
+56752,lest seem false true love 
+56801,untrue speak love 
+56847,buried body name 
+56886,shame live nor 
+56932,shamed forth bring 
+56982,worth things love 
+57040,73 
+57065,mayst year behold 
+57111,yellow few leaves hang none 
+57158,boughs shake cold those against 
+57209,sang choirs ruined birds bare late sweet 
+57265,twilight seest 
+57311,fadeth sunset west 
+57350,black night doth 
+57397,seals self rest second death 
+57447,glowing seest fire 
+57493,ashes youth lie doth 
+57537,expire whereon bed death 
+57582,nourished consumed 
+57631,perceiv strong makes st love 
+57692,ere leave love 
+57752,74 
+57777,arrest contented fell 
+57820,bail carry without 
+57861,interest line life hath 
+57905,memorial stay still thee 
+57955,review reviewest dost 
+58002,consecrate part thee 
+58043,due earth 
+58094,spirit thine part better 
+58139,dregs lost hast life 
+58188,worms prey body dead being 
+58230,conquest knife wretch coward 
+58274,remembered base thee 
+58312,contains worth 
+58363,remains thee 
+58418,75 
+58443,food thoughts life 
+58489,seasoned showers ground sweet 
+58540,strife hold peace 
+58587,miser wealth twixt found 
+58633,enjoyer anon proud 
+58670,filching doubting treasure steal age 
+58724,counting alone best 
+58767,bettered pleasure world 
+58820,feasting sometime sight full 
+58870,starved clean look 
+58913,possessing pursuing delight 
+58950,took save 
+58997,surfeit pine thus 
+59041,gluttoning 
+59085,76 
+59110,verse barren pride new why 
+59153,variation quick change far 
+59195,glance aside why 
+59238,methods compounds found strange new 
+59289,write same still why 
+59334,weed noted invention keep 
+59373,almost word name doth tell 
+59418,showing proceed birth 
+59470,always write sweet love 
+59514,argument still love 
+59557,dressing new words best 
+59602,spending spent already 
+59643,daily sun new 
+59685,telling told still love 
+59736,77 
+59761,beauties glass wear show thee 
+59812,dial minutes waste precious 
+59856,imprint vacant leaves mind bear 
+59909,learning mayst taste book 
+59962,wrinkles glass truly show 
+60011,mouthed graves memory give thee 
+60055,shady stealth dial mayst 
+60103,thievish eternity progress 
+60144,contain memory cannot look 
+60184,blanks commit waste shalt find 
+60237,nursed delivered brain children those 
+60289,acquaintance new mind 
+60332,offices oft wilt look 
+60378,enrich profit book thee 
+60432,78 
+60457,invoked muse oft thee 
+60500,assistance verse found fair 
+60547,alien pen use hath 
+60586,poesy disperse under thee 
+60626,dumb taught sing high thine eyes 
+60679,aloft ignorance heavy fly 
+60716,feathers added wing learned 
+60762,double given majesty grace 
+60799,compile proud 
+60845,influence born thine whose thee 
+60892,style mend works others dost 
+60942,graced arts graces sweet 
+60987,advance dost art 
+61034,learning ignorance rude high 
+61083,79 
+61108,aid whilst alone call 
+61149,verse alone gentle grace 
+61193,decayed numbers gracious 
+61237,muse sick place doth give 
+61283,lovely argument grant sweet love 
+61327,travail worthier deserves pen 
+61370,invent poet doth thee 
+61412,robs pays thee 
+61456,lends stole virtue word thee 
+61505,behaviour beauty doth give 
+61548,afford cheek found 
+61592,praise live doth thee 
+61642,thank doth 
+61694,owes pay self dost since thee 
+61752,80 
+61777,faint write 
+61818,knowing spirit use better name doth 
+61865,spends thereof praise might 
+61916,tied speaking fame tongue 
+61965,ocean wide worth since 
+62012,proudest sail humble bear doth 
+62058,inferior saucy bark far 
+62097,wilfully broad main appear doth 
+62141,shallowest afloat help hold 
+62189,soundless ride whilst deep doth 
+62238,wrecked boat worthless being 
+62283,building tall goodly pride 
+62328,thrive cast 
+62371,decay worst love 
+62422,81 
+62447,epitaph live 
+62488,survive rotten earth 
+62533,memory hence cannot death 
+62578,forgotten although each part 
+62625,immortal hence name life 
+62675,once gone die though world 
+62726,yield common grave earth 
+62772,entombed lie eyes men 
+62818,verse monument gentle 
+62861,created read er eyes 
+62908,rehearse tongues being 
+62957,breathers dead world 
+63007,pen virtue live still hath 
+63059,breathes mouths breath even men 
+63123,82 
+63148,muse wert grant married 
+63193,attaint erlook mayst without therefore 
+63241,dedicated writers words use 
+63282,blessing subject book fair 
+63329,hue knowledge fair art 
+63373,finding limit past praise worth 
+63418,anew enforced seek therefore art 
+63462,bettering fresher stamp days 
+63512,devised love 
+63559,strained rhetoric touches lend 
+63603,sympathized wert truly fair 
+63647,telling plain words friend true 
+63699,painting gross used might better 
+63751,abused cheeks need blood thee 
+63807,83 
+63832,painting need saw 
+63875,painting set therefore fair 
+63922,exceed found thought 
+63970,barren debt poet tender 
+64010,slept report therefore 
+64056,extant self show might being 
+64108,quill modern short far doth 
+64155,speaking grow worth doth 
+64206,impute silence sin 
+64249,dumb glory being 
+64293,impair mute beauty being 
+64332,tomb others bring life give 
+64382,lives eyes fair life 
+64435,poets devise praise both 
+64487,84 
+64512,says 
+64561,rich praise alone 
+64612,immured confine store whose 
+64654,example grew equal 
+64701,penury pen dwell lean within doth 
+64744,lends glory small subject 
+64795,writes tell 
+64841,dignifies story 
+64886,copy writ 
+64927,clear making worse nature 
+64974,counterpart fame wit 
+65020,admired style making 
+65061,blessings add beauteous curse 
+65111,praises fond worse praise makes being 
+65174,85 
+65199,muse tied manners holds tongue still 
+65250,compiled comments richly praise while 
+65300,quill reserve character golden 
+65346,muses filed phrase precious 
+65393,whilst write thoughts words 
+65450,unlettered clerk amen cry still 
+65495,hymn affords able spirit 
+65538,polished refined pen form 
+65579,praised hearing true tis 
+65629,add praise something 
+65678,thought whose love 
+65726,hindmost rank holds words though 
+65781,respect breath words others 
+65832,dumb speaking effect thoughts 
+65886,86 
+65911,verse sail proud full 
+65961,prize precious bound 
+66011,inhearse ripe brain thoughts 
+66062,grew tomb womb making wherein 
+66111,taught write spirits spirit 
+66161,pitch struck mortal above dead 
+66207,compeers neither night nor 
+66252,astonished verse aid giving 
+66292,affable familiar ghost nor 
+66330,gulls nightly intelligence 
+66376,victors boast silence cannot 
+66418,thence sick fear 
+66461,filled line countenance 
+66512,lacked enfeebled matter mine 
+66564,87 
+66589,possessing farewell dear art 
+66639,estimate enough st 
+66685,releasing charter gives worth thee 
+66735,determinate bonds thee 
+66776,granting hold thee 
+66823,deserving riches 
+66869,wanting gift cause fair 
+66918,swerving patent back 
+66962,gav knowing worth self st 
+67019,mistaking gav else whom st 
+67068,misprision growing gift 
+67114,judgement making home better comes 
+67163,flatter dream thus doth thee 
+67214,waking sleep matter 
+67267,88 
+67292,disposed light shalt set 
+67340,merit scorn eye place 
+67383,side self fight against 
+67429,forsworn virtuous prove though art thee 
+67483,weakness acquainted best being mine 
+67532,story set part 
+67572,attainted concealed faults wherein 
+67620,losing glory win shalt 
+67669,gainer 
+67708,bending loving thoughts thee 
+67755,injuries self 
+67793,vantage doing double thee 
+67835,belong love thee 
+67878,self wrong right bear 
+67936,89 
+67961,forsake fault didst 
+68011,comment offence 
+68052,lameness halt straight speak 
+68103,defence reasons making against 
+68145,disgrace canst half ill love 
+68195,desired form change set 
+68233,knowing disgrace self 
+68280,strangle acquaintance strange look 
+68330,walks absent tongue 
+68376,beloved dwell name sweet 
+68423,wronk profane lest 
+68472,acquaintance haply tell 
+68515,debate vow self against thee 
+68563,hate ne whom dost er love 
+68619,90 
+68644,hate wilt 
+68690,bent cross deeds while world 
+68740,spite bow join fortune 
+68788,drop loss 
+68829,scaped ah sorrow heart hath 
+68883,rearward conquered woe 
+68927,rainy windy morrow night give 
+68969,purposed linger overthrow 
+69008,last wilt leave 
+69056,petty griefs spite done 
+69106,onset taste 
+69149,worst fortune might 
+69196,strains woe seem 
+69247,compared loss seem thee 
+69302,91 
+69327,skill birth glory 
+69378,wealth force body 
+69431,fangled garments new ill though 
+69481,hawks hounds horse 
+69537,adjunct humour pleasure hath 
+69584,finds wherein above joy rest 
+69626,particulars measure 
+69671,general best better 
+69714,birth high better love 
+69759,costs prouder richer garments wealth 
+69812,hawks delight horses 
+69857,boast pride having men thee 
+69905,mayst wretched alone 
+69956,wretchcd 
+70007,92 
+70032,steal worst self 
+70076,assured term life art mine 
+70119,longer stay life love 
+70166,depends thine love 
+70209,wrongs worst need fear 
+70257,least end life hath 
+70304,belongs state better 
+70343,depend humour doth 
+70390,inconstant vex canst mind 
+70437,revolt lie since life doth 
+70483,title happy find 
+70518,happy die love 
+70559,blot fears blessed fair 
+70611,mayst false 
+70664,93 
+70689,supposing live true art 
+70734,deceived husband face love 
+70778,altered seem new still though love 
+70828,looks place heart 
+70876,hatred eye thine live 
+70922,change therefore cannot 
+70969,history looks false many heart 
+71015,moods wrinkles frowns writ strange 
+71068,creation decree heaven 
+71110,dwell face sweet love 
+71160,workings whate thoughts er heart 
+71214,sweetness thence looks tell 
+71270,eve apple grow beauty doth 
+71318,virtue answer show sweet 
+71368,94 
+71393,hurt power none 
+71444,show 
+71492,moving stone themselves others 
+71539,unmoved temptation slow cold 
+71581,inherit rightly graces heaven 
+71625,expense riches husband nature 
+71670,tibey owners faces lords 
+71720,stewards excellence others 
+71765,flower summer sweet 
+71812,self die live though 
+71856,infection flower base meet 
+71904,outbraves basest weed dignity 
+71946,sourest sweetest deeds things turn 
+72000,lilies fester weeds smell worse far 
+72057,95 
+72082,lovely shame dost sweet 
+72132,fragrant canker rose 
+72177,budding spot beauty name doth 
+72222,enclose sweets sins dost 
+72270,tells story days tongue 
+72319,comments lascivious making sport 
+72364,dispraise praise kind cannot 
+72410,blesses naming report ill name 
+72453,mansion vices those 
+72495,habitation chose thee 
+72541,veil blot cover beauty doth 
+72587,turns things eyes fair 
+72639,privilege heed large dear heart 
+72692,hardest edge knife lose used ill doth 
+72748,96 
+72773,wantonness fault youth 
+72822,sport youth gentle grace 
+72871,loved faults less grace both 
+72924,resort mak graces faults st thee 
+72975,throned finger queen 
+73015,esteemed basest jewel 
+73058,errors seen those thee 
+73104,deemed translated truths things true 
+73157,lambs stern wolf betray might many 
+73204,translate lamb looks 
+73252,gazers mightst lead many 
+73295,strength wouldst state use 
+73349,sort love thee 
+73395,report being mine 
+73449,97 
+73474,absence winter hath 
+73516,fleeting year pleasure thee 
+73565,freezings felt dark days seen 
+73617,bareness december everywhere 
+73661,removed summer 
+73709,teeming autumn increase big rich 
+73755,prime burden wanton bearing 
+73798,wombs widowed decease lords 
+73848,abundant seemed issue 
+73888,unfathered orphans fruit hope 
+73934,pleasures wait summer thee 
+73980,mute birds 
+74023,cheer dull sing tis 
+74072,dreading leaves winter pale near look 
+74132,98 
+74157,absent spring 
+74203,pied dressed april trim proud 
+74254,spirit youth put hath 
+74300,leaped laughed saturn heavy 
+74350,lays birds smell sweet nor 
+74400,odour different hue flowers 
+74445,story summer tell 
+74487,lap grew pluck proud 
+74542,lily wonder white nor 
+74583,vermilion rose deep praise nor 
+74629,figures delight sweet 
+74677,pattern drawn those 
+74723,seemed winter still 
+74770,shadow play 
+74822,99 
+74847,violet chide forward thus 
+74887,smells thief whence steal didst sweet 
+74950,purple pride breath love 
+75000,dwells check complexion soft 
+75050,dyed grossly veins hast love 
+75100,condemned lily hand 
+75138,marjoram buds stol hair n 
+75183,fearfully thorns roses stand 
+75227,blushing despair white shame another 
+75273,stol white n third red both nor 
+75324,annexed robbery breath 
+75370,theft growth pride 
+75418,vengeful canker eat death 
+75460,noted flowers none 
+75509,stol colour n sweet thee 
+75564,100 
+75590,muse forget art st 
+75642,gives might speak thee 
+75694,worthless fury spend song st 
+75744,darkening subjects lend base light power 
+75796,forgetful muse redeem straight return 
+75843,idly numbers spent gentle 
+75884,lays esteem sing ear doth 
+75930,pen skill argument gives both 
+75976,resty survey muse rise face sweet love 
+76025,graven wrinkle 
+76067,satire decay 
+76100,spoils despised everywhere 
+76147,wastes faster fame life give love 
+76200,scythe crooked prevent knife st 
+76259,101 
+76285,truant amends muse 
+76328,dyed neglect beauty truth 
+76372,depends beauty truth both love 
+76417,dignified therein dost 
+76461,muse haply wilt answer 
+76507,fixed colour needs truth 
+76556,pencil beauty lay truth 
+76600,intermixed best 
+76643,dumb needs praise because wilt 
+76693,excuse silence lies thee 
+76739,outlive gilded tomb 
+76782,ages praised 
+76822,muse teach office thee 
+76870,shows seem hence 
+76925,102 
+76951,strengthened seeming weak though love 
+77007,appear less show though love 
+77056,esteeming merchandized rich whose love 
+77108,publish owner tongue doth 
+77156,spring new love 
+77205,lays greet wont 
+77250,philomel front summer sing doth 
+77294,riper growth pipe stops days 
+77341,pleasant summer less 
+77385,hymns mournful hush night 
+77437,burthens bough wild music 
+77482,sweets delight grown common lose dear 
+77534,sometime tongue hold therefore 
+77586,song dull because 
+77638,103 
+77664,poverty muse brings alack forth 
+77708,scope pride having show 
+77755,bare argument worth 
+77797,added beside praise hath 
+77842,blame write 
+77884,appears glass face look 
+77932,invention blunt quite goes 
+77976,dulling lines disgrace doing 
+78020,striving sinful mend 
+78065,mar subject 
+78109,verses tend pass 
+78149,gifts graces tell 
+78196,verse sit 
+78247,glass shows look 
+78303,104 
+78329,friend fair 
+78372,eyed eye 
+78419,winters seems cold beauty three still 
+78472,forests summers shook pride three 
+78525,autumn turned springs yellow beauteous three 
+78577,seasons process seen 
+78619,junes burned perfumes april hot three 
+78670,fresh green saw since 
+78722,dial ah beauty hand doth 
+78762,perceived pace figure steal 
+78811,hue methinks still stand sweet doth 
+78865,deceived motion eye mine hath 
+78911,unbred age fear hear 
+78962,summer born beauty ere dead 
+79015,105 
+79041,idolatry called love 
+79080,idol beloved show nor 
+79115,songs praises alike since 
+79158,still 
+79202,kind morrow love 
+79245,excellence wondrous constant still 
+79289,confined constancy verse therefore 
+79334,expressing difference leaves 
+79382,argument kind fair true 
+79427,varying kind words fair true 
+79476,invention spent change 
+79521,themes affords scope wondrous three 
+79575,lived often alone kind fair true 
+79626,seat kept three till 
+79681,106 
+79707,chronicle wasted 
+79748,descriptions wights fairest 
+79793,beautiful rhyme making beauty 
+79835,knights lovely ladies praise dead 
+79884,blazon beauty best sweet 
+79930,lip brow foot eye hand 
+79976,expressed antique pen 
+80025,beauty even master 
+80066,prophecies praises 
+80109,prefiguring 
+80151,looked divining eyes 
+80198,skill sing worth enough 
+80247,behold days present 
+80296,tongues lack wonder praise eyes 
+80354,107 
+80380,prophetic fears soul nor mine 
+80427,dreaming wide things world 
+80477,lease control true love 
+80523,confined supposed forfeit doom 
+80566,endured eclipse mortal moon hath 
+80611,augurs presage mock sad 
+80657,incertainties assured themselves crown 
+80704,olives endless proclaims age peace 
+80750,balmy drops 
+80797,subscribes fresh looks death love 
+80849,rhyme spite since live poor 
+80901,insults tribes speechless dull while er 
+80954,monument shalt find 
+81001,tombs crests tyrants brass spent 
+81061,108 
+81087,character ink brain 
+81134,figured spirit true hath thee 
+81184,register new speak 
+81230,express merit dear love 
+81278,divine prayers boy sweet 
+81329,same each er 
+81372,counting thine mine 
+81422,hallowed even name fair 
+81470,eternal fresh case love 
+81516,weighs injury dust age 
+81558,wrinkles necessary gives place nor 
+81600,antiquity aye makes page 
+81641,finding conceit bred love 
+81692,outward form show dead 
+81749,109 
+81775,false heart 
+81817,seemed qualify flame absence though 
+81863,easy depart self might 
+81903,breast lie soul doth 
+81952,ranged home love 
+81998,travels return 
+82039,exchanged 
+82089,stain water self bring 
+82134,reigned believe nature though 
+82180,frailties kinds besiege blood 
+82230,preposterously stained 
+82277,sum leave 
+82322,universe wide call 
+82366,rose save art 
+82417,110 
+82443,alas gone true tis 
+82490,motley view self 
+82532,gored cheap sold thoughts dear mine 
+82590,offences affections new 
+82630,looked truth true 
+82678,askance strangely above 
+82722,blenches gave youth another heart 
+82769,essays proved worse best love thee 
+82818,end done 
+82867,grind appetite mine 
+82908,older newer proof try friend 
+82951,confined whom god love 
+82992,next welcome best heaven give 
+83044,pure breast loving even 
+83099,111 
+83125,chide sake fortune 
+83169,harmful goddess guilty deeds 
+83212,provide better life 
+83256,breeds public manners means 
+83306,brand receives thence comes name 
+83356,subdued thence almost nature 
+83398,dyer works hand 
+83444,renewed pity wish 
+83486,willing patient whilst drink 
+83533,eisel potions infection gainst strong 
+83582,bitterness bitter 
+83625,correct penance correction double nor 
+83670,assure pity ye friend dear 
+83718,cure pity enough even 
+83769,112 
+83795,impression fill pity doth th love 
+83843,stamped scandal vulgar brow 
+83889,calls care ill 
+83934,allow green bad er 
+83978,strive world 
+84026,shames praises tongue 
+84077,alive else none nor 
+84118,steeled changes sense wrong right 
+84170,abysm profound throw care 
+84211,adder voices sense others 
+84256,stopped critic flatterer 
+84299,dispense neglect mark 
+84342,strongly bred purpose 
+84387,besides methinks dead world 
+84442,113 
+84468,left mind eye since mine 
+84513,governs 
+84555,function partly blind part doth 
+84603,effectually seeing seems 
+84644,delivers form heart 
+84684,latch bird flower shape doth 
+84737,objects quick mind part hath 
+84784,vision catch holds doth nor 
+84832,gentlest rud sight st 
+84879,deformed creature favour sweet st 
+84929,mountain sea night 
+84977,feature dove shapes crow 
+85031,incapable replete 
+85073,maketh untrue mind thus true mine 
+85125,114 
+85151,crowned whether mind being doth 
+85201,monarch flattery plague drink 
+85249,saith whether eye true mine 
+85296,alchemy taught love 
+85342,indigest monsters things 
+85387,cherubins resemble self sweet 
+85434,creating perfect bad best 
+85471,assemble objects beams fast 
+85516,flattery seeing tis 
+85565,kingly drinks mind 
+85612,greeing gust knows eye mine 
+85667,palate cup prepare doth 
+85710,poisoned lesser sin tis 
+85755,begin loves eye doth mine 
+85809,115 
+85835,lines writ lie those 
+85882,dearer those even love 
+85935,judgment knew reason why 
+85979,clearer flame afterwards burn full 
+86033,millioned accidents reckoning whose 
+86082,decrees creep vows twixt kings change 
+86136,tan intents sacred blunt sharp beauty st 
+86186,divert alt minds course strong ring things 
+86243,fearing tyranny alas why 
+86282,best might love 
+86329,incertainty certain er 
+86369,crowning doubting present rest 
+86416,babe might love 
+86461,growth grow full still doth give 
+86521,116 
+86547,minds marriage true 
+86591,impediments admit love 
+86630,alters alteration finds 
+86672,remover bends remove 
+86712,fixed mark 
+86746,tempests shaken looks 
+86793,wand bark star ring 
+86836,height unknown although taken worth whose 
+86892,rosy cheeks lips fool though love 
+86947,sickle bending compass within 
+86992,alters weeks brief hours love 
+87043,edge doom bears even 
+87089,proved error 
+87131,loved writ nor 
+87177,117 
+87203,scanted accuse thus 
+87247,repay deserts wherein 
+87293,dearest forgot call love 
+87335,tie bonds whereto 
+87378,frequent unknown minds 
+87427,purchased given right dear 
+87479,hoisted winds sail 
+87524,transport farthest sight 
+87579,wilfulness errors book both 
+87623,accumulate surmise proof 
+87665,level frown bring within 
+87709,wakened shoot hate 
+87754,appeal strive says prove since 
+87802,constancy virtue love 
+87850,118 
+87876,keen appetite 
+87918,compounds eager palate urge 
+87962,maladies unseen prevent 
+88000,sicken purge shun sickness 
+88045,cloying sweetness ne full even er being 
+88100,sauces feeding frame bitter 
+88144,meetness welfare sick found kind 
+88193,needing diseased ere true 
+88244,anticipate policy thus love 
+88281,ills assured grew faults 
+88332,healthful medicine brought state 
+88377,cured goodness rank ill 
+88426,lesson thence learn find true 
+88476,feil drugs poison sick 
+88528,119 
+88554,siren potions drunk tears 
+88598,limbecks distilled hell foul within 
+88646,applying hopes fears 
+88694,losing win self saw still 
+88737,errors committed wretched heart hath 
+88786,blessed whilst self thought hath 
+88838,spheres fitted eyes mine 
+88893,madding distraction fever 
+88938,benefit ill find true 
+88975,evil still better 
+89021,ruined anew built love 
+89062,fairer grows greater strong far 
+89119,rebuked content return 
+89159,ills gain spent thrice 
+89216,120 
+89242,befriends unkind once 
+89289,feel sorrow 
+89336,transgression bow needs under 
+89380,hammered nerves brass steel unless 
+89430,shaken unkindness 
+89473,passed y hell yours 
+89521,tyrant leisure taken 
+89561,suffered crime weigh once 
+89608,remembered woe might night 
+89657,deepest hits sense hard sorrow true 
+89705,tendered soon 
+89752,salve bosoms wounded fits humble 
+89800,trespass fee becomes 
+89847,ransoms ransom yours mine 
+89902,121 
+89928,esteemed vile better tis 
+89974,receives reproach being 
+90021,deemed pleasure lost 
+90072,feeling seeing others 
+90118,adulterate false others eyes why 
+90166,sportive salutation blood give 
+90207,frailer frailties spies why 
+90252,wills bad count 
+90305,level 
+90348,abuses reckon 
+90386,bevel straight themselves though 
+90440,shown rank deeds thoughts 
+90494,maintain evil unless general 
+90539,badness reign bad men 
+90592,122 
+90618,tables gift brain within 
+90663,charactered lasting memory full 
+90704,rank idle remain above 
+90747,eternity date beyond even 
+90784,brain least heart 
+90831,subsist faculty nature 
+90869,razed oblivion yield each part till 
+90915,missed record thee 
+90959,retention hold poor 
+91006,tallies score need dear nor love 
+91052,bold therefore give 
+91098,tables receive trust those thee 
+91147,adjunct remember keep thee 
+91188,forgetfulness import 
+91233,123 
+91259,boast change shalt 
+91311,pyramids newer built might 
+91353,novel strange 
+91398,dressings former sight 
+91443,dates admire brief therefore 
+91492,foist dost 
+91537,born desire rather 
+91581,told heard 
+91632,registers defy both thee 
+91671,wond past present ring nor 
+91718,records lie doth 
+91764,continual haste less 
+91809,vow 
+91852,scythe despite true thee 
+91905,124 
+91931,child state dear love 
+91979,unfathered bastard fortune might 
+92028,subject hate love 
+92076,gathered weeds flowers among 
+92132,builded accident far 
+92172,suffers smiling pomp falls nor 
+92217,thralled discontent blow under 
+92259,inviting whereto calls fashion th 
+92307,heretic policy fears 
+92344,numbered leases short hours works 
+92394,hugely politic stands alone 
+92434,drowns showers heat grows nor 
+92491,fools witness call 
+92538,crime lived goodness die 
+92597,125 
+92623,canopy bore aught 
+92664,honouring extern outward 
+92705,bases eternity laid 
+92742,ruining proves waste short 
+92792,dwellers form favour seen 
+92839,paying rent lose 
+92885,forgoing savour compound simple sweet 
+92932,thrivers gazing pitiful spent 
+92975,obsequious heart 
+93017,oblation free poor 
+93062,mixed seconds knows art 
+93112,mutual render thee 
+93152,informer suborned hence soul true 
+93200,impeached control least stands 
+93259,126 
+93285,lovely power boy 
+93327,fickle glass hour dost hold 
+93377,waning therein grown show hast st 
+93427,withering lovers grow self sweet st 
+93479,wrack sovereign nature mistress 
+93524,onwards goest pluck back still thee 
+93577,skill keeps purpose thee 
+93627,minutes disgrace wretched kill 
+93676,minion pleasure fear 
+93723,detain treasure keep still 
+93775,delayed audit answered though 
+93825,quietus render thee 
+93869,127 
+93895,counted black age fair 
+93941,bore beauty name 
+93985,successive heir black beauty 
+94031,slandered bastard beauty shame 
+94077,each power nature since put hand hath 
+94128,fairing borrowed foul false face art 
+94180,bower holy beauty name sweet hath 
+94224,profaned disgrace lives 
+94270,raven black mistress therefore eyes 
+94318,mourners suited seem eyes 
+94365,lack born beauty fair 
+94410,slandering creation esteem false 
+94454,becoming mourn woe 
+94500,beauty says tongue look 
+94555,128 
+94581,oft music play st 
+94628,sounds wood blessed motion whose 
+94674,gently fingers sway sweet st 
+94725,wiry concord confounds ear mine 
+94770,jacks nimble leap envy those 
+94813,inward tender kiss hand 
+94855,reap harvest whilst lips poor 
+94910,boldness blushing wood stand thee 
+94960,tickled change state 
+95010,chips situation dancing those 
+95053,gait fingers walk gentle whom er 
+95101,blest wood making living lips dead 
+95150,jacks saucy happy since 
+95195,fingers lips kiss give 
+95248,129 
+95274,expense waste spirit shame th 
+95319,lust action till 
+95363,perjured murd rous blame bloody full 
+95412,extreme savage cruel rude trust 
+95459,enjoyed despised sooner straight 
+95503,hunted sooner past reason 
+95544,swallowed bait hated past reason 
+95586,taker laid purpose mad 
+95628,pursuit possession mad 
+95668,quest extreme having 
+95715,proved bliss proof woe 
+95759,proposed behind dream joy 
+95800,knows none world 
+95856,shun leads hell heaven men 
+95913,130 
+95939,sun mistress eyes 
+95986,coral lips far red 
+96031,dun breasts snow white why 
+96082,wires hairs grow black head 
+96134,damasked roses white seen red 
+96180,roses cheeks 
+96222,perfumes delight 
+96269,reeks breath mistress 
+96320,hear speak love 
+96366,pleasing music sound far hath 
+96412,goddess grant saw 
+96449,treads walks ground mistress 
+96501,rare heaven love 
+96549,belied compare false 
+96596,131 
+96622,tyrannous art 
+96664,proudly beauties cruel those whose 
+96716,doting dear heart st 
+96765,fairest jewel precious art 
+96814,behold faith thee 
+96862,groan power face hath love 
+96913,err bold dare 
+96956,although self alone swear 
+96997,swear sure false 
+97042,groans thinking thousand face 
+97089,neck witness another bear 
+97130,fairest judgment black place 
+97178,deeds black save art 
+97228,proceeds slander thence 
+97282,132 
+97308,pitying thine eyes love 
+97354,torment disdain knowing heart 
+97400,mourners loving black put 
+97446,ruth looking pain pretty 
+97488,morning truly sun heaven 
+97531,east becomes cheeks grey better 
+97578,ushers star full even nor 
+97624,sober west glory half doth 
+97666,mourning become face those eyes 
+97713,beseem heart 
+97755,mourning mourn since grace doth thee 
+97806,suit pity part 
+97847,herself black beauty swear 
+97895,complexion lack foul 
+97948,133 
+97974,beshrew groan makes heart 
+98025,wound gives deep friend 
+98075,torture alone enough 
+98115,slavery slave friend sweet st 
+98167,cruel taken self eye hath 
+98212,engrossed harder next self hast 
+98260,forsaken self thee 
+98304,crossed fold torment thrice three thus 
+98355,ward steel prison bosom heart 
+98401,bail friend poor heart 
+98455,whoe keeps guard er heart 
+98503,gaol rigour canst use 
+98549,pent wilt being thee 
+98599,perforce thine 
+98649,134 
+98675,confessed thine 
+98720,mortgaged self 
+98763,forfeit self mine 
+98808,restore comfort wilt still 
+98853,free wilt nor 
+98900,covetous kind art 
+98942,surety learned write 
+98989,fist bind bond under doth 
+99036,statute beauty wilt 
+99081,usurer forth put use st 
+99126,debtor sue sake came friend 
+99172,unkind abuse lose through 
+99214,lost hast both 
+99263,pays whole free 
+99314,135 
+99340,whoever wish hast hath 
+99386,plus boot 
+99434,vex enough still thee 
+99480,addition making thus sweet 
+99523,spacious large wilt whose 
+99570,vouchsafe hide once thine 
+99618,gracious seem right others 
+99663,acceptance shine fair 
+99707,receives rain water sea still 
+99754,addeth abundance store 
+99795,add rich being 
+99841,large mine 
+99890,beseechers unkind kill fair 
+99990,136 
+100016,check near soul thee 
+100063,blind swear soul 
+100113,admitted knows soul 
+100159,fulfil suit far thus sweet love 
+100208,fulfil treasure love 
+100257,wills fill full ay 
+100306,receipt case prove things 
+100356,reckoned number among none 
+100396,untold number pass 
+100438,store account though 
+100486,please hold thee 
+100534,something sweet thee 
+100581,still name love 
+100634,lov name st 
+100688,137 
+100714,blind dost fool eyes mine love 
+100768,behold 
+100815,beauty lies 
+100863,worst best 
+100910,partial corrupt looks eyes 
+100952,anchored bay ride men 
+100998,hooks forged falsehood hast eyes why 
+101048,whereto tied judgment heart 
+101093,plot several heart why 
+101143,wide common knows place world heart 
+101198,seeing eyes mine 
+101243,foul truth face put fair 
+101285,erred things right eyes true heart 
+101341,transferred plague false 
+101401,138 
+101427,swears truth love 
+101477,believe lies though 
+101521,untutored youth might 
+101570,subtleties unlearned false world 
+101616,vainly thinking thinks young thus 
+101666,although past knows days best 
+101715,simply speaking credit false tongue 
+101761,suppressed sides simple truth both thus 
+101811,unjust wherefore says 
+101856,wherefore 
+101898,habit seeming trust best love 
+101942,years loves age told love 
+101992,lie therefore 
+102040,flattered faults lies 
+102092,139 
+102118,justify wrong call 
+102157,unkindness lays heart 
+102200,wound tongue eye thine 
+102252,slay power use art 
+102301,elsewhere lov sight st tell 
+102352,glance forbear eye thine dear aside heart 
+102401,wound cunning need might st 
+102456,erpressed bide defence 
+102505,excuse ah knows love thee 
+102551,enemies pretty looks mine 
+102595,turns foes face therefore 
+102644,dart elsewhere injuries might 
+102694,slain near since 
+102741,outright rid pain looks kill 
+102796,140 
+102822,press cruel wise art 
+102865,disdain tied patience tongue 
+102915,express lend lest sorrow words 
+102963,wanting pain manner pity 
+103002,teach wit might better thee 
+103047,though tell love 
+103094,testy deaths sick near men 
+103142,physicians health news 
+103192,despair grow mad 
+103238,madness ill might speak thee 
+103284,wresting grown bad ill world 
+103332,slanderers believed ears mad 
+103375,belied nor 
+103419,wide straight proud thine bear though eyes heart 
+103486,141 
+103512,faith eyes mine love thee 
+103559,errors note thousand thee 
+103603,despise loves heart tis 
+103654,pleased dote despite view 
+103700,delighted cars tune tongue nor mine 
+103755,prone touches feeling tender base nor 
+103800,invited smell taste desire nor 
+103846,sensual feast alone thee 
+103887,senses wits five nor 
+103931,dissuade serving foolish heart thee 
+103980,unswayed likeness leaves 
+104026,vassal wretch slave proud heart 
+104078,gain plague count far thus 
+104124,awards pain sin makes 
+104177,142 
+104203,sin hate virtue dear love 
+104248,grounded sinful loving sin hate 
+104294,compare state thine mine 
+104344,reproving merits shalt find 
+104392,lips thine those 
+104438,profaned ornaments scarlet 
+104485,sealed bonds oft false mine love 
+104535,robbed rents revenues beds others 
+104584,lawful lov those st love thee 
+104634,importune woo whom thine eyes mine thee 
+104681,root grows pity heart 
+104727,pitied deserve pity 
+104765,hide seek dost 
+104817,example denied mayst self 
+104864,143 
+104890,huswife careful runs lo catch 
+104932,feathered creatures broke 
+104978,sets babe swift dispatch makes 
+105029,pursuit stay 
+105077,neglected chase holds whilst child 
+105127,busy bent cries catch care whose 
+105174,flies follow face 
+105221,prizing discontent infant poor 
+105266,flies run st thee 
+105318,afar chase babe whilst behind thee 
+105363,catch back hope turn 
+105410,kiss kind play mother part 
+105459,mayst pray 
+105510,crying loud back turn still 
+105563,144 
+105589,despair comfort loves 
+105633,suggest spirits still 
+105680,angel right better fair 
+105721,coloured worser spirit ill woman 
+105764,female evil win soon hell 
+105806,tempteth angel side better 
+105848,corrupt saint devil 
+105893,purity wooing pride foul 
+105935,turned angel fiend whether 
+105981,directly suspect tell 
+106022,each friend both being 
+106069,guess angel hell another 
+106109,doubt ne live er 
+106161,angel bad fire till 
+106210,145 
+106236,lips those hand love 
+106281,breathed hate sound forth 
+106329,languished sake 
+106368,woeful saw state 
+106405,straight mercy heart 
+106446,chiding tongue sweet 
+106486,doom giving used gentle 
+106521,anew greet taught thus 
+106558,altered hate end 
+106595,followed gentle 
+106630,fiend follow night doth 
+106668,flown hell heaven 
+106706,threw hate 
+106747,saved saying life 
+106792,146 
+106818,sinful centre earth soul poor 
+106862,sinful array rebel powers earth 
+106907,dearth pine suffer dost within why 
+106954,gay costly painting outward walls 
+106999,lease cost large short having why 
+107045,fading mansion spend dost 
+107089,inheritors excess worms 
+107130,eat charge body end 
+107176,loss servant soul live 
+107224,aggravate pine store 
+107269,selling dross divine terms buy hours 
+107316,fed rich without within 
+107359,feeds feed death men 
+107412,dying once dead death 
+107470,147 
+107496,longing fever still love 
+107536,nurseth disease longer 
+107582,feeding preserve ill doth 
+107630,uncertain sickly appetite please th 
+107674,physician reason love 
+107713,prescriptions angry kept 
+107758,approve desperate left hath 
+107804,physic except desire death 
+107849,cure past care reason 
+107893,unrest frantic evermore mad 
+107934,discourse thoughts mad men 
+107984,expressed random vainly truth 
+108030,bright sworn thought fair thee 
+108088,dark black hell night art 
+108141,148 
+108167,put head eyes hath love 
+108212,correspondence sight true 
+108261,fled judgment 
+108308,censures aright falsely 
+108355,dote whereon false eyes fair 
+108402,means world 
+108447,denote doth love 
+108492,eye true men love 
+108539,eye true love 
+108584,vexed watching tears 
+108634,marvel mistake view though 
+108678,clears sees self sun till heaven 
+108727,cunning blind tears keep st love 
+108782,seeing faults lest foul find eyes 
+108842,149 
+108868,cruel canst love thee 
+108912,partake self against thee 
+108957,forgot thee 
+108997,tyrant sake self 
+109041,hateth friend call thee 
+109086,fawn frown whom st 
+109132,lour spend nay st 
+109176,moan revenge self present 
+109219,merit respect self 
+109258,despise proud service 
+109302,defect worship best doth 
+109347,commanded motion thine eyes 
+109389,hate mind love 
+109436,blind lov those st 
+109493,150 
+109519,powerful power might hast 
+109571,insufficiency sway heart 
+109611,sight lie true give 
+109656,brightness swear grace doth 
+109709,becoming whence ill things hast 
+109758,refuse deeds 
+109799,warrantise skill strength 
+109850,exceeds worst mind best 
+109897,taught love thee 
+109947,hate cause hear 
+109994,abhor others though love 
+110035,abhor shouldst state others 
+110084,unworthiness raised love 
+110128,beloved worthy thee 
+110174,151 
+110200,conscience young love 
+110249,conscience born knows love 
+110298,cheater urge amiss gentle 
+110340,guilty faults lest self prove sweet 
+110390,betraying betray 
+110428,nobler gross treason body part 
+110474,body soul doth tell 
+110516,stays farther triumph flesh reason love 
+110567,rising point name doth thee 
+110614,triumphant prize pride proud 
+110663,drudge contented poor 
+110705,affairs side fall stand 
+110751,conscience want hold call 
+110799,rise fall dear whose love 
+110855,152 
+110881,forsworn loving st thee 
+110927,swearing forsworn twice art love 
+110979,torn broke vow new bed act faith 
+111027,vowing bearing hate new love 
+111073,breach accuse oaths why thee 
+111123,perjured twenty break 
+111167,misuse vows oaths thee 
+111216,lost honest faith thee 
+111260,kindness oaths sworn deep 
+111313,constancy oaths truth love 
+111361,enlighten blindness gave eyes thee 
+111410,swear against 
+111460,perjured sworn fair thee 
+111510,foul swear truth against 
+111560,153 
+111586,brand cupid asleep laid fell 
+111630,dian advantage maid found 
+111672,kindling steep quickly fire love 
+111720,valley fountain ground cold 
+111765,borrowed holy fire love 
+111812,dateless lively heat endure still 
+111855,seeting bath grew prove men 
+111903,maladies cure sovereign strange against 
+111949,fired brand new eye mistress love 
+112000,trial breast needs touch boy 
+112050,desired bath withal sick help 
+112093,hied distempered guest thither sad 
+112138,bath cure found lies help 
+112189,cupid fire new mistress eyes 
+112243,154 
+112269,lying asleep once god love 
+112311,inflaming brand laid side heart 
+112358,vowed nymphs chaste whilst keep many life 
+112412,tripping maiden came hand 
+112457,votary fairest took fire 
+112498,warmed legions hearts many true 
+112547,general desire hot 
+112584,disarmed virgin sleeping hand 
+112627,quenched brand cool 
+112673,perpetual heat took fire love 
+112720,healthful bath growing remedy 
+112760,discased thrall mistress men 
+112808,cure prove came 
+112859,heats cools water fire love 
+112915,end
+112930,version complete works william electronic 
+112990,1993 1990 inc library copyright shakespeare world
+113057,benedictine illinois college etext provided gutenberg project
+113126,machine readable permission copies electronic
+113191,1 others distributed copies
+113254,personal used 2 distributed use
+113310,prohibited commercially commercial includes distribution
+113377,membership download charges service
+113448,1603
+113456,alls ends
+113484,shakespeare william
+113512,dramatis personae
+113533,france 
+113551,florence duke 
+113575,rousillon count bertram 
+113606,lafeu lord 
+113628,follower bertram parolles 
+113663,serving bertram french lords 
+113707,rousillon steward countess servant 
+113756,lavache rousillon countess clown servant 
+113817,rousillon countess servant page 
+113867,rousillon countess bertram mother 
+113911,protected gentlewoman countess helena 
+113962,florence widow 
+113986,diana widow daughter 
+114022,violenta neighbour widow friend 
+114069,mariana neighbour widow friend 
+114117,florentine etc officers soldiers french lords 
+114181,version complete works william electronic 
+114241,1993 1990 inc library copyright shakespeare world
+114308,benedictine illinois college etext provided gutenberg project
+114377,machine readable permission copies electronic
+114442,1 others distributed copies
+114505,personal used 2 distributed use
+114561,prohibited commercially commercial includes distribution
+114628,membership download charges service
+114697,scene
+114705,marseilles florence rousillon paris
+114749,1 act scene
+114766,rousillon count palace
+114799,rousillon lafeu countess bertram black helena enter
+114876,delivering bury countess husband second son 
+114944,anew going bertram weep madam er death father 
+115013,attend command majesty whom 
+115079,subjection ward evermore 
+115114,lafeu husband madam find 
+115181,generally times father 
+115244,worthiness necessity stir virtue hold whose 
+115314,wanted lack rather 
+115379,abundance 
+115395,amendment countess majesty hope 
+115455,physicians abandon lafeu under madam whose hath 
+115518,persecuted practices finds hope hath 
+115587,process losing advantage hope 
+115654,gentlewoman countess young father 
+115723,passage skill almost sad whose tis 
+115787,stretch honesty far nature 
+115849,immortal lack work play death 
+115920,living sake death 
+115991,disease 
+116016,lafeu madam call speak 
+116070,profession famous countess 
+116137,gerard narbon de right 
+116182,lately lafeu excellent spoke indeed madam 
+116251,mourningly admiringly skilful enough 
+116320,mortality liv knowledge set still against 
+116386,languishes bertram lord 
+116448,fistula lafeu lord 
+116478,bertram heard 
+116516,notorious gentlewoman lafeu 
+116582,gerard narbon de daughter 
+116617,bequeathed sole countess child lord 
+116676,overlooking education hopes those 
+116744,inherits dispositions promises gifts makes fair 
+116813,unclean qualities carries fairer virtuous mind 
+116880,commendations virtues traitors pity 
+116948,simpleness derives better 
+117019,achieves goodness honesty 
+117064,commendations lafeu tears madam 
+117121,brine season maiden countess praise best tis 
+117189,approaches remembrance heart father 
+117259,livelihood tyranny sorrows cheek takes 
+117327,lest helena rather thought 
+117396,affect sorrow 
+117435,affect sorrow helena indeed 
+117494,excessive moderate lamentation lafeu right dead 
+117561,living enemy grief 
+117597,excess countess living enemy grief makes 
+117667,mortal soon 
+117685,wishes bertram holy desire madam 
+117731,understand lafeu 
+117765,succeed blest countess bertram father 
+117825,manners shape virtue blood 
+117876,contend empire goodness thee 
+117926,birthright share few trust love 
+117981,able enemy wrong thine none 
+118028,power rather friend keep use 
+118079,key check silence under life 
+118134,tax speech heaven 
+118190,furnish prayers pluck thee 
+118245,farewell fall head lord 
+118287,unseason courtier tis lord 
+118335,advise 
+118352,lafeu want best cannot 
+118386,attend love 
+118419,bless countess bertram farewell heaven exit 
+118485,forg wishes bertram thoughts best 
+118552,comfortable servants helena mother 
+118622,mistress 
+118659,credit pretty lafeu farewell hold lady 
+118725,lafeu bertram exeunt father 
+118791,helena father 
+118846,remembrance tears grace 
+118900,shed those 
+118950,imagination forgot 
+118989,carries bertram favour 
+119032,undone living none 
+119076,twere bertram 
+119116,star particular bright love 
+119165,wed above 
+119210,collateral radiance bright light 
+119259,comforted sphere 
+119304,plagues ambition itself thus th love 
+119354,mated hind lion 
+119400,plague pretty twas die though love 
+119455,draw sit hour 
+119499,arched curls hawking brows eye 
+119550,capable table heart 
+119594,line trick favour sweet 
+119644,idolatrous fancy gone 
+119692,relics sanctify comes 
+119741,parolles enter 
+119782,sake goes aside love 
+119845,liar notorious 
+119887,solely coward fool 
+119937,evils fix fit sit 
+119982,steely bones virtue place 
+120035,bleak withal oft wind cold looks full th 
+120094,superfluous waiting folly wisdom cold 
+120141,parolles save fair queen 
+120176,monarch helena 
+120205,parolles 
+120222,helena 
+120241,meditating virginity parolles 
+120287,stain ask helena soldier ay 
+120358,barricado virginity question enemy 
+120424,against 
+120442,parolles keep 
+120469,assails virginity valiant helena though 
+120537,resistance unfold defence warlike weak 
+120602,setting parolles none 
+120665,undermine blow 
+120701,underminers blowers virginity bless helena poor 
+120770,military virgins policy blow might men 
+120834,quicklier virginity blown parolles being 
+120903,blowing breach yourselves marry 
+120973,politic commonwealth city lose 
+121043,rational virginity preserve loss nature 
+121111,virginity increase virgin till 
+121182,virgins virginity metal lost 
+121251,kept ten times found lost once being 
+121322,companion cold lost tis 
+121381,helena die stand therefore though 
+121447,virgin 
+121460,rule parolles against tis 
+121529,virginity accuse nature part speak 
+121597,infallible disobedience mothers hangs 
+121664,murders virginity virgin itself himself 
+121730,highways sanctified limit desperate buried 
+121799,offendress mites breeds virginity nature against 
+121867,consumes paring cheese dies itself 
+121933,feeding virginity peevish stomach besides proud 
+122001,inhibited idle sin self love 
+122070,canon choose lose keep cannot 
+122140,goodly year ten itself within 
+122204,principal increase worse itself 
+122282,liking helena lose might 
+122346,likes parolles ne ill marry er 
+122415,gloss commodity lying kept longer lose tis 
+122486,vendible worth less while answer off tis 
+122555,virginity wears courtier request cap 
+122626,unsuitable brooch suited richly fashion 
+122695,toothpick date wear better 
+122763,porridge pie virginity cheek 
+122830,pears virginity wither french 
+122900,drily pear eats wither looks ill marry tis 
+122967,pear formerly wither marry better tis 
+123031,anything 
+123054,virginity helena 
+123087,loves thousand master 
+123139,mother friend mistress 
+123184,phoenix enemy captain 
+123223,guide goddess sovereign 
+123265,traitress counsellor dear 
+123309,humility ambition humble proud 
+123351,jarring dulcet concord discord 
+123401,disaster faith sweet world 
+123450,christendoms adoptious fond pretty 
+123495,blinking gossips cupid 
+123543,send god 
+123593,learning court place 
+123643,parolles faith 
+123676,helena pity wish tis 
+123716,parolles pity 
+123742,wishing helena body 
+123791,poorer felt born might 
+123843,baser wishes shut stars whose 
+123891,effects follow friends might 
+123942,alone show 
+123994,returns thanks 
+124020,page enter 
+124056,monsieur calls parolles page exit lord 
+124122,helen parolles remember farewell thee 
+124190,court thee 
+124219,charitable monsieur star parolles helena born under 
+124288,mars parolles under 
+124316,especially mars helena under 
+124359,parolles under why 
+124387,kept wars needs helena born under hath 
+124458,mars under 
+124475,predominant parolles 
+124513,retrograde helena rather 
+124565,parolles why 
+124596,backward helena fight 
+124647,advantage parolles 
+124682,proposes running safety helena fear 
+124752,composition valour virtue makes fear 
+124823,wing wear 
+124867,acutely parolles business answer full cannot thee 
+124937,instruction courtier perfect return 
+125006,naturalize capable courtier serve wilt thee 
+125077,advice thrust understand counsel else thee 
+125147,unthankfulness diest ignorance makes thine 
+125214,leisure prayers farewell hast thee 
+125281,remember none friends hast thee 
+125345,uses husband farewell use thee 
+125401,exit 
+125408,remedies ourselves oft helena lie 
+125457,ascribe fated sky heaven 
+125504,backward pull scope gives free doth 
+125554,designs slow dull ourselves 
+125604,mounts high power love 
+125656,feed makes eye cannot mine 
+125706,mightiest space brings fortune nature 
+125756,likes native join kiss things 
+125810,attempts impossible strange those 
+125855,suppose weigh pains sense 
+125908,strove cannot hath 
+125955,miss merit show love 
+126002,deceive disease project 
+126053,intents fix leave exit 
+126127,2 act scene
+126144,paris palace
+126172,cornets letters flourish france enter
+126234,divers attendants
+126259,senoys florentines ears th 
+126312,continue equal fought fortune 
+126362,braving war 
+126382,reported tis lord 
+126420,credible receive nay tis 
+126474,certainty vouch austria cousin 
+126525,caution florentine move 
+126577,speedy dearest aid wherein friend 
+126625,prejudicates seem business 
+126672,denial 
+126701,wisdom love lord 
+126737,approv plead majesty 
+126781,amplest credence 
+126808,arm answer hath 
+126843,florence denied comes 
+126888,gentlemen mean 
+126933,tuscan freely service leave 
+126981,either part stand 
+127011,serve second lord 
+127045,nursery gentry sick 
+127088,exploit breathing 
+127120,comes 
+127153,lafeu bertram parolles enter 
+127205,rousillon count lord 
+127261,bertram young 
+127281,youth face bear st father 
+127329,frank curious haste rather nature 
+127378,compos moral parts father hath thee 
+127433,inherit mayst paris welcome 
+127480,bertram duty thanks majesty 
+127531,soundness corporal 
+127583,friendship myself father 
+127632,soldiership tried far look 
+127682,service 
+127725,discipled lasted bravest 
+127772,haggish steal age both 
+127818,repairs wore act 
+127866,talk youth father 
+127913,observe wit 
+127958,jest lords young 
+128008,unnoted scorn return till 
+128057,levity hide ere honour 
+128104,bitterness courtier contempt nor 
+128153,sharpness pride 
+128204,awak equal honour 
+128252,minute clock knew itself true 
+128300,exception bid speak 
+128347,below obey tongue hand 
+128399,creatures another place 
+128443,eminent ranks top bow low 
+128494,humility making proud 
+128533,humbled praise poor 
+128582,copy younger times might 
+128627,demonstrate followed 
+128681,goers backward 
+128706,remembrance bertram 
+128745,richer tomb lies thoughts 
+128797,approof epitaph lives 
+128838,speech royal 
+128868,always 
+128921,plausive methinks words hear 
+128970,grafted scatter ears 
+129018,grow live bear 
+129070,began melancholy oft 
+129111,catastrophe pastime heel 
+129156,quoth live 
+129204,snuff oil lacks flame 
+129252,apprehensive younger senses spirits whose 
+129303,judgments disdain new things whose 
+129356,constancies fathers garments mere whose 
+129411,expire fashions wish 
+129463,wish 
+129505,wax honey home since bring nor 
+129552,dissolved hive quickly 
+129596,labourers room give 
+129630,loved re second lord 
+129665,lend least lack 
+129720,fill count place 
+129777,physician died since father 
+129825,fam 
+129849,months six bertram since lord 
+129893,try living 
+129942,worn lend arm rest 
+129988,applications sickness several nature 
+130040,debate leisure count welcome 
+130089,dearer son 
+130114,bertram flourish majesty thank exeunt 
+130188,3 act scene
+130205,rousillon count palace
+130238,steward countess clown enter
+130276,gentlewoman countess hear 
+130340,steward content care wish madam even 
+130407,calendar endeavours past found might 
+130478,clearness deservings modesty wound foul 
+130549,publish ourselves 
+130589,countess sirrah knave does gone 
+130655,complaints believe heard tis 
+130721,slowness commit folly lack 
+130790,knaveries ability yours enough 
+130854,unknown fellow clown madam poor tis 
+130916,countess 
+130940,clown madam many poor though tis 
+131009,ladyship damn rich 
+131079,isbel woman world 
+131145,beggar countess needs wilt 
+131187,beg case clown 
+131235,case countess 
+131262,heritage isbel case clown service mine 
+131332,blessing issue till god 
+131403,bames blessings body 
+131451,countess reason wilt marry tell why 
+131504,driven requires body clown madam poor 
+131570,drives flesh needs devil 
+131626,worship countess reason 
+131674,reasons holy clown faith madam 
+131743,countess world 
+131781,wicked creature flesh clown madam 
+131851,repent marry indeed blood 
+131914,wickedness sooner marriage countess 
+131969,clown hope friends madam 
+132038,sake wife 
+132059,enemies countess knave thine friends 
+132111,knaves y shallow clown friends madam 
+132180,aweary ears land 
+132246,spares team crop gives leave 
+132314,drudge comforts cuckold wife 
+132376,cherishes cherisher flesh blood 
+132445,flesh loves blood 
+132515,ergo kisses friend wife men 
+132584,contented fear 
+132651,charbon poysam puritan marriage young 
+132715,papist howsome sever religion hearts er 
+132783,jowl deer horns heads together both 
+132851,herd th 
+132869,calumnious countess mouth knave foul wilt 
+132937,prophet next truth clown madam speak 
+133005,repeat ballad 
+133050,full find true men 
+133099,destiny marriage comes 
+133146,cuckoo sings kind 
+133192,countess anon talk gone 
+133254,steward helen bid please madam 
+133323,speak 
+133350,gentlewoman helen countess sirrah tell speak 
+133421,mean 
+133434,sings clown 
+133455,quoth cause face fair 
+133512,sacked grecians troy why 
+133561,fond done 
+133599,priam joy 
+133645,sighed stood 
+133696,sighed stood 
+133747,sentence gave 
+133794,nine among bad 
+133842,nine among bad 
+133889,ten 
+133939,corrupt song countess sirrah ten 
+134005,purifying ten clown woman madam th 
+134073,song year serve find world god 
+134143,tithe parson ten fault woman 
+134213,blazing quoth born woman might 
+134284,lottery earthquake twould star mend 
+134353,pluck draw ere heart 
+134399,countess command knave gone 
+134464,hurt command clown woman done 
+134535,puritan honesty hurt though 
+134602,surplice humility big gown black wear heart 
+134673,forsooth helen going business hither 
+134742,exit 
+134749,countess 
+134773,entirely steward gentlewoman madam love 
+134836,bequeath countess faith father 
+134902,lawfully advantage title herself without 
+134971,owing finds paid love 
+135042,demand paid 
+135090,steward late near madam 
+135156,communicate herself alone wish 
+135226,vow ears dare thought words 
+135292,loved stranger sense touch matter 
+135360,goddess fortune put son 
+135423,estates difference betwixt god love 
+135494,extend qualities level diana might queen 
+135564,virgins surpris suffer knight without poor 
+135633,afterward assault rescue ransom 
+135697,bitter deliver e touch sorrow heard er 
+135765,speedily exclaim acquaint virgin held duty 
+135835,sithence happen concerns loss withal 
+135903,something 
+135930,honestly discharg countess yourself keep 
+135999,likelihoods hung inform many 
+136063,tott balance neither believe ring nor 
+136126,stall misdoubt bosom leave pray 
+136192,further care honest thank speak 
+136259,steward anon exit 
+136327,helena enter 
+136371,young even 
+136417,thorn ours nature 
+136474,belong rightly rose youth doth 
+136521,born blood 
+136570,seal truth nature show 
+136618,impress passion strong youth love 
+136674,foregone remembrances days 
+136717,faults thought none 
+136774,observe sick eye 
+136820,pleasure helena madam 
+136861,helen countess 
+136891,mother 
+136918,honourable helena mistress mine 
+136955,countess mother nay 
+136983,mother why 
+137030,serpent methought saw mother 
+137083,start mother 
+137134,catalogue put those 
+137177,enwombed often seen mine tis 
+137223,adoption strives breeds choice nature 
+137276,seeds slip foreign native 
+137321,oppress groan ne mother er 
+137372,express care mother 
+137415,curd maiden mercy does blood god 
+137464,matter mother 
+137512,distempered wet messenger 
+137557,rounds iris colour eye thine many 
+137604,daughter why 
+137640,helena 
+137666,countess mother 
+137703,helena pardon madam 
+137729,rousillon count brother cannot 
+137776,honoured humble name 
+137822,parents note noble 
+137867,dear master lord 
+137909,vassal servant die live 
+137957,brother 
+137989,countess mother nor 
+138021,helena mother madam 
+138074,brother son lord 
+138125,mothers mother indeed both 
+138178,care heaven 
+138224,sister 
+138271,daughter brother 
+138321,helen countess yes law daughter might 
+138379,shield mean mother daughter god 
+138436,pulse strive pale 
+138486,fondness catch fear hath 
+138537,myst loneliness ry find 
+138583,salt gross sense tears head tis 
+138639,asham invention son love 
+138683,proclamation passion against 
+138729,dost therefore true tell 
+138780,cheeks look tell tis 
+138834,confess thine eyes th 
+138888,behaviours grossly shown 
+138935,sin kind speak 
+138983,obstinacy hellish tie tongue 
+139026,suspected truth speak 
+139079,clew wound goodly 
+139127,howe forswear charge er thee 
+139182,avail work thine heaven 
+139231,truly tell 
+139254,helena pardon madam 
+139288,countess son love 
+139321,helena pardon mistress noble 
+139361,countess son love 
+139391,helena madam love 
+139430,bond countess hath love 
+139482,disclose whereof takes note world 
+139538,passions affection state 
+139590,appeach full 
+139623,confess helena 
+139650,knee high heaven 
+139700,next high unto heaven 
+139749,son love 
+139771,honest friends poor love 
+139824,hurts offended 
+139867,lov follow 
+139913,presumptuous token suit 
+139953,deserve till nor 
+140002,desert 
+140049,strive vain hope against love 
+140098,intenible captious sieve 
+140144,waters pour still love 
+140188,indian lack lose still thus 
+140240,adore religious error mine 
+140278,worshipper looks sun 
+140322,dearest knows madam 
+140371,encounter hate love 
+140418,loving yourself 
+140465,cites aged virtuous youth whose honour 
+140512,flame liking true 
+140555,chastely dian dearly wish love 
+140605,herself pity both give love 
+140656,choose state whose cannot 
+140707,lend lose sure give 
+140757,implies seeks search find 
+140810,riddle sweetly dies lives 
+140863,lately intent countess truly speak 
+140918,paris 
+140939,helena madam 
+140964,countess wherefore true tell 
+140999,helena itself swear truth grace tell 
+141054,prescriptions left father 
+141105,prov effects reading rare 
+141158,collected manifest experience 
+141201,sovereignty general 
+141253,heedfull reservation bestow st 
+141301,inclusive faculties notes whose 
