@@ -110,9 +110,9 @@ public class Preprocessing extends Configured implements Tool {
               throws IOException, InterruptedException {
 
         
-        // Check if the line is empty
+        // Check if the line is empty or only contains blank character
         
-        if (!value.toString().isEmpty())
+        if (!value.toString().isEmpty() || value.toString()!=" ")
         {
         	//if the line is not empty, parse it
         for (String token: value.toString().replaceAll("[^a-zA-Z0-9 ]", " ").split("\\s+")) {
@@ -242,7 +242,8 @@ public class Preprocessing extends Configured implements Tool {
          context.getCounter(COUNTER.COUNT_LINES).increment(1);
          // write for each line the words in the ascending order
          context.write(key, new Text(reducedvalue.toString()));
-         }
+         
+       }
       
    }
 }
