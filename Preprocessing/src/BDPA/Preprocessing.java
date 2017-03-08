@@ -110,10 +110,9 @@ public class Preprocessing extends Configured implements Tool {
               throws IOException, InterruptedException {
 
         
-        // Check if the line is empty or only contains blank character
+        // Check if the line is empty 
+       // if (!value.toString().isEmpty())
         
-        if (!value.toString().isEmpty() || value.toString()!=" ")
-        {
         	//if the line is not empty, parse it
         for (String token: value.toString().replaceAll("[^a-zA-Z0-9 ]", " ").split("\\s+")) {
 
@@ -121,12 +120,17 @@ public class Preprocessing extends Configured implements Tool {
           
 
           if (!stopwords.contains(token.toLowerCase())) {
+        	    // if token only contains a blank character we do not write it 
+        	  
+              
+        	  	
                 word.set(token.toLowerCase());
                 context.write(key, word);
-                }
+        	  	}
+                
         
            }
-         }
+         
       }
    }
 
@@ -238,10 +242,13 @@ public class Preprocessing extends Configured implements Tool {
             reducedvalue.append(val);
          }
          
-         // Increment counter
+
+         // write for each line the words in the ascending order if not equal blank character
+         if(!reducedvalue.toString().isEmpty()){
+             // Increment counter
          context.getCounter(COUNTER.COUNT_LINES).increment(1);
-         // write for each line the words in the ascending order
          context.write(key, new Text(reducedvalue.toString()));
+         }
          
        }
       
