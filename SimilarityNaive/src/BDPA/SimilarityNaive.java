@@ -92,7 +92,7 @@ public class SimilarityNaive extends Configured implements Tool {
    
    public static class Map extends Mapper<Text, Text,Text,Text> {
       
-      private Text word = new Text();
+
 
      /* Initialise one time a hashmap to store key (line id) and the corresponding world*/   
       private static HashMap<String,String> doc_id_contents = new HashMap<String,String>();
@@ -122,8 +122,6 @@ public class SimilarityNaive extends Configured implements Tool {
               }
           }
           Reader_count.close();
-          
-          System.out.println(Arrays.asList(doc_id_contents));
        
         }
       
@@ -218,14 +216,13 @@ public class SimilarityNaive extends Configured implements Tool {
   		 List <String> list_id = new ArrayList<String>(Arrays.asList(key.toString().split("@")));
          String first_id = list_id.get(0);
          
-         /* Get the second id's content */
+        /* Get the second id's content with the build HashMap id_contents which is containing each pair of (id,content) for the input file*/
   		 String second_id = list_id.get(1);
          String second_content = id_contents.get(second_id);
          
          
          // Create set for the words in the first document
-         Set<String> setvalue_first = new HashSet<String>(); //Arrays.asList(first_content.split(" ")));
-         Set<String> temp = new HashSet<String>();
+         Set<String> setvalue_first = new HashSet<String>(); 
          
          Iterator<Text> iter = values.iterator();
          while (iter.hasNext())
