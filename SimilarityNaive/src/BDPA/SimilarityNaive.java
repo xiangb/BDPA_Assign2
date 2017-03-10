@@ -104,7 +104,7 @@ public class SimilarityNaive extends Configured implements Tool {
        BufferedReader Reader_count = new BufferedReader(
                  new FileReader(
                           new File(
-                                  "/home/cloudera/workspace/Assignment2/SimilarityNaive/input/sample.txt"
+                                  "/home/cloudera/workspace/BDPA_Assign2_BXIANG/SimilarityNaive/input/sample.txt"
                               )));
           
           String line;
@@ -171,7 +171,7 @@ public class SimilarityNaive extends Configured implements Tool {
        BufferedReader Reader_count = new BufferedReader(
                  new FileReader(
                           new File(
-                                  "/home/cloudera/workspace/Assignment2/SimilarityNaive/input/sample.txt"
+                                  "/home/cloudera/workspace/BDPA_Assign2_BXIANG/SimilarityNaive/input/sample.txt"
                               )));
           
           String line;
@@ -223,6 +223,7 @@ public class SimilarityNaive extends Configured implements Tool {
          
          // Create set for the words in the first document
          Set<String> setvalue_first = new HashSet<String>(); 
+         Set<String> temp = new HashSet<String>();
          
          Iterator<Text> iter = values.iterator();
          while (iter.hasNext())
