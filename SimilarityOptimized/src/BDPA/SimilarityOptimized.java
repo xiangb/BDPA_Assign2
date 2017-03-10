@@ -54,10 +54,9 @@ public class SimilarityOptimized extends Configured implements Tool {
       job.setJarByClass(SimilarityOptimized.class);
       job.setOutputKeyClass(Text.class);
       job.setOutputValueClass(Text.class);
-
+      //Use first Mapper and Reducer classes
       job.setMapperClass(Map_inverted.class);
       job.setReducerClass(Reduce_inverted.class);
-     
 
       job.setInputFormatClass(KeyValueTextInputFormat.class);
       job.setOutputFormatClass(TextOutputFormat.class);
@@ -68,6 +67,7 @@ public class SimilarityOptimized extends Configured implements Tool {
       /* set output as csv file */
       job.getConfiguration().set("mapreduce.output.textoutputformat.separator", ",");
       
+      // input and output paths for first job
       FileInputFormat.addInputPath(job, new Path(args[0]));
       FileOutputFormat.setOutputPath(job,new Path(args[1]));
 
@@ -76,29 +76,29 @@ public class SimilarityOptimized extends Configured implements Tool {
       // Second job
 
       Job job2 = new Job(getConf(), "SimilarityOptimized_part2");
-	  job2.setJarByClass(SimilarityOptimized.class);
+	    job2.setJarByClass(SimilarityOptimized.class);
+      //Use second Mapper and Reducer classes
+	    job2.setMapperClass(Map.class);
+	    job2.setReducerClass(Reduce.class);
 
-	  job2.setMapperClass(Map.class);
-	  job2.setReducerClass(Reduce.class);
+	    job2.setOutputKeyClass(Text.class);
+	    job2.setOutputValueClass(Text.class);
 
-	  job2.setOutputKeyClass(Text.class);
-	  job2.setOutputValueClass(Text.class);
+	    job2.setInputFormatClass(KeyValueTextInputFormat.class);
+	    job2.setOutputFormatClass(TextOutputFormat.class);
 
-	  job2.setInputFormatClass(KeyValueTextInputFormat.class);
-	  job2.setOutputFormatClass(TextOutputFormat.class);
-
-	  // set key-value separator for the input file
+	    // set key-value separator for the input file
       job2.getConfiguration().set("mapreduce.input.keyvaluelinerecordreader.key.value.separator",",");
       
       /* set output as csv file */
       job2.getConfiguration().set("mapreduce.output.textoutputformat.separator", ",");
+      // input and output path for second job
+	    TextInputFormat.addInputPath(job2, new Path(args[1]));
+	    TextOutputFormat.setOutputPath(job2, new Path(args[2]));
 
-	  TextInputFormat.addInputPath(job2, new Path(args[1]));
-	  TextOutputFormat.setOutputPath(job2, new Path(args[2]));
+	    job2.waitForCompletion(true);
 
-	  job2.waitForCompletion(true);
-
-	  // Write counter to file
+	    // Write counter to file
       FileSystem fs = FileSystem.newInstance(getConf());
       long counter = job2.getCounters().findCounter(COUNTER.COUNT_COMPARAISONS_OPTIMIZED).getValue();
       Path outFile = new Path(new Path(args[2]),"NB_Comp_SimilarityOptimized.txt");
@@ -120,75 +120,72 @@ public class SimilarityOptimized extends Configured implements Tool {
 
 
 
-   			/*  Map first |d| - ceiling(s*|d|) + 1 words of each line 
-   				|d| is the number of words in the document
-   				s = similarity threshold */
+   			  /*  Map first |d| - ceiling(s*|d|) + 1 words of each line 
+   				    |d| is the number of words in the document
+   				    s = similarity threshold */
 
    		    // Get the list of words in the line 
 
-   			Set<String> words_line = new LinkedHashSet<String>(Arrays.asList(value.toString().split(" ")));
+   			  Set<String> words_line = new LinkedHashSet<String>(Arrays.asList(value.toString().split(" ")));
 
 
-			// Compute the number of words to keep 
+    			// Compute the number of words to keep 
 
-			int nb_words = new Integer(words_line.size() - (int)Math.ceil(0.8*words_line.size()) +1 );
+    			int nb_words = words_line.size() - (int)Math.ceil(0.8*words_line.size()) +1;
 
-			// Write the first nb_words in context with the word as key and the line id as value
-
-
-			int i = 1;
-			for (String val : words_line) {       
-			    if (i > nb_words) break; 
-			    word.set(val);
-			    context.write(word,key);
-
-			    i++;
-			}
-
-        }
+    			// Write the first nb_words words in context with the word as key and the line id as value
 
 
-   }
+    			int i = 1;
+    			for (String val : words_line) {       
+    			    if (i > nb_words) break; 
+    			    word.set(val);
+    			    context.write(word,key);
+
+    			    i++;
+    			}
+
+    }
+}
 
    public static class Reduce_inverted extends Reducer<Text, Text, Text, Text> {
 
 
    	  @Override
 	  public void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
-	  		/* Create the inverted index by regrouping (key,value) from mapper*/
+	  	/* Create the inverted index by regrouping (key,value) from mapper*/
 
-	  	StringBuilder reducedvalue = new StringBuilder();
-        HashSet<String> setvalue = new HashSet<String>();  
-   	  
-         
+  	  StringBuilder reducedvalue = new StringBuilder();
+      HashSet<String> setvalue = new HashSet<String>();  
+     	  
+           
 
-         // Add the values in setvalue 
+       // Add the values in setvalue 
 
-         for (Text val : values)
-         {
-          setvalue.add(val.toString());
-         }
+       for (Text val : values)
+       {
+        setvalue.add(val.toString());
+       }
 
-         // Create the string containing each line id's
+       // Create the string containing each line id's
 
-         for (String id : setvalue){
-         	if (reducedvalue.length() !=0){
-         		reducedvalue.append(" ");
-         	}
+       for (String id : setvalue){
+       	if (reducedvalue.length() !=0){
+       		reducedvalue.append(" ");
+       	}
 
-         	reducedvalue.append(id);
+       	reducedvalue.append(id);
 
-         }
+       }
 
-         // write the results
+       // write the results
 
-         context.write(key,new Text(reducedvalue.toString()));
+       context.write(key,new Text(reducedvalue.toString()));
 
 
 
 	}
-
-   }
+}
 
 
    
