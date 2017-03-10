@@ -112,7 +112,7 @@ public class Preprocessing extends Configured implements Tool {
         
 
         
-        	//if the line is not empty, parse it
+        	
         for (String token: value.toString().replaceAll("[^a-zA-Z0-9 ]", " ").split("\\s+")) {
 
           /* if word not in stop words list then we set word with the value then write it into context */
