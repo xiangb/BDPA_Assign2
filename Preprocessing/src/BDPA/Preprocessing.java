@@ -151,7 +151,7 @@ public class Preprocessing extends Configured implements Tool {
 		   BufferedReader Reader_count = new BufferedReader(
 		             new FileReader(
 		                      new File(
-		                              "/home/cloudera/workspace/Assignment2/wordcountpg100.txt"
+		                              "/home/cloudera/workspace/BDPA_Assign2_BXIANG/wordcountpg100.txt"
 		                      		)));
 		      
 		      String line;
