@@ -32,13 +32,13 @@ public class SimilarityNaive extends Configured implements Tool {
 
    
    public static enum COUNTER {
-		  COUNT_COMPARAISONS_NAIVE
-		  };
-		  
-		  
+      COUNT_COMPARAISONS_NAIVE
+      };
+      
+      
 
    public static void main(String[] args) throws Exception {
-	   
+     
       System.out.println(Arrays.toString(args));
       
       
@@ -78,8 +78,8 @@ public class SimilarityNaive extends Configured implements Tool {
       long counter = job.getCounters().findCounter(COUNTER.COUNT_COMPARAISONS_NAIVE).getValue();
       Path outFile = new Path(new Path(args[1]),"NB_Comp_SimilarityNaive.txt");
       BufferedWriter writer = new BufferedWriter(
-    		  					new OutputStreamWriter(
-    		  							fs.create(outFile, true)));
+                    new OutputStreamWriter(
+                        fs.create(outFile, true)));
       writer.write(String.valueOf(counter));
       writer.close();
       
@@ -104,7 +104,7 @@ public class SimilarityNaive extends Configured implements Tool {
        BufferedReader Reader_count = new BufferedReader(
                  new FileReader(
                           new File(
-                                  "/home/cloudera/workspace/Assignment2/SimilarityNaive/input/sample.txt"
+                                  "/home/cloudera/workspace/BDPA_Assign2_BXIANG/SimilarityNaive/input/sample.txt"
                               )));
           
           String line;
@@ -134,13 +134,13 @@ public class SimilarityNaive extends Configured implements Tool {
               for (String doc_id : doc_id_contents.keySet()) {
 
 
-            	 
+               
                     // check for not comparing the document with itself and only with document with higher id than itself (to avoid duplicates)
-            	  	
-            	  	int id_key = Integer.valueOf(key.toString());
-            	  	int id_doc = Integer.valueOf(doc_id);
-            	  
-            	  		
+                  
+                  int id_key = Integer.valueOf(key.toString());
+                  int id_doc = Integer.valueOf(doc_id);
+                
+                    
                     if (id_doc > id_key ){
                     
                   
@@ -171,7 +171,7 @@ public class SimilarityNaive extends Configured implements Tool {
        BufferedReader Reader_count = new BufferedReader(
                  new FileReader(
                           new File(
-                                  "/home/cloudera/workspace/Assignment2/SimilarityNaive/input/sample.txt"
+                                  "/home/cloudera/workspace/BDPA_Assign2_BXIANG/SimilarityNaive/input/sample.txt"
                               )));
           
           String line;
@@ -205,24 +205,25 @@ public class SimilarityNaive extends Configured implements Tool {
             union.addAll(set2);
             return (double)intersect.size()/(double)union.size();
         }
-	   
-  	  @Override
+     
+      @Override
       public void reduce(Text key, Iterable<Text> values, Context context)
               throws IOException, InterruptedException {
-    	  
-    	  
-  		  
         
-  		 List <String> list_id = new ArrayList<String>(Arrays.asList(key.toString().split("@")));
+        
+        
+        
+       List <String> list_id = new ArrayList<String>(Arrays.asList(key.toString().split("@")));
          String first_id = list_id.get(0);
          
         /* Get the second id's content with the build HashMap id_contents which is containing each pair of (id,content) for the input file*/
-  		 String second_id = list_id.get(1);
+       String second_id = list_id.get(1);
          String second_content = id_contents.get(second_id);
          
          
          // Create set for the words in the first document
          Set<String> setvalue_first = new HashSet<String>(); 
+         Set<String> temp = new HashSet<String>();
          
          Iterator<Text> iter = values.iterator();
          while (iter.hasNext())
