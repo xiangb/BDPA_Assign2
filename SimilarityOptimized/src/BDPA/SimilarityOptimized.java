@@ -5,9 +5,6 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.io.IntWritable;
-import org.apache.hadoop.io.LongWritable;
-import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -126,15 +123,10 @@ public class SimilarityOptimized extends Configured implements Tool {
    			/*  Map first |d| - ceiling(s*|d|) + 1 words of each line 
    				|d| is the number of words in the document
    				s = similarity threshold */
-   			
-   			if (!value.toString().isEmpty()){
+
    		    // Get the list of words in the line 
-   			
-   			Set<String> words_line = new LinkedHashSet<String>();
-   			
-   			for (String val : value.toString().split(" ")){
-   				words_line.add(val);
-   			}
+
+   			Set<String> words_line = new LinkedHashSet<String>(Arrays.asList(value.toString().split(" ")));
 
 
 			// Compute the number of words to keep 
@@ -147,28 +139,28 @@ public class SimilarityOptimized extends Configured implements Tool {
 			int i = 1;
 			for (String val : words_line) {       
 			    if (i > nb_words) break; 
-			    context.write(new Text(val),key);
+			    word.set(val);
+			    context.write(word,key);
 
 			    i++;
 			}
 
         }
-   		}
 
 
    }
 
    public static class Reduce_inverted extends Reducer<Text, Text, Text, Text> {
 
-  
-   	  
+
    	  @Override
 	  public void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
 	  		/* Create the inverted index by regrouping (key,value) from mapper*/
 
-
-     	 StringBuilder reducedvalue = new StringBuilder();
-         HashSet<String> setvalue = new HashSet<String>();
+	  	StringBuilder reducedvalue = new StringBuilder();
+        HashSet<String> setvalue = new HashSet<String>();  
+   	  
+         
 
          // Add the values in setvalue 
 
@@ -202,7 +194,7 @@ public class SimilarityOptimized extends Configured implements Tool {
    
    public static class Map extends Mapper<Text, Text,Text,Text> {
       
-      private Text word = new Text();
+
 
      /* Initialise one time a hashmap to store key (line id) and the corresponding world*/   
       private static HashMap<String,String> doc_id_contents = new HashMap<String,String>();
@@ -214,7 +206,7 @@ public class SimilarityOptimized extends Configured implements Tool {
        BufferedReader Reader_count = new BufferedReader(
                  new FileReader(
                           new File(
-                                  "/home/cloudera/workspace/Assignment2/SimilarityOptimized/input/sample.txt"
+                                  "/home/cloudera/workspace/BDPA_Assign2_BXIANG/SimilarityOptimized/input/full_input.txt"
                               )));
           
           String line;
@@ -232,6 +224,7 @@ public class SimilarityOptimized extends Configured implements Tool {
               }
           }
           Reader_count.close();
+          
        
         }
       
@@ -242,15 +235,11 @@ public class SimilarityOptimized extends Configured implements Tool {
 
       		  /* Map lines containing the same words together, input here is the output of the job 1
       		     i.e. the inverted index  */
-    	  if (!value.toString().isEmpty()){
+
+      		  if (!value.toString().isEmpty()){
+
       		  Set<String> list_ids = new HashSet<String>(Arrays.asList(value.toString().split(" ")));
-      		  
-      		 
-      		  /*
-              for (String val : value.toString())
-              {
-               list_ids.add(val);
-              } */
+
       		  for (String id1 : list_ids){
 
       		  		int id1_int = Integer.valueOf(id1);
@@ -266,7 +255,7 @@ public class SimilarityOptimized extends Configured implements Tool {
 	                    keyBuilder.append(id1);
 	                    keyBuilder.append("@");
 	                    keyBuilder.append(id2);
-	                    
+
 
 	                    
 	                    context.write(new Text(keyBuilder.toString()), new Text(doc_id_contents.get(id1).toString()));
@@ -277,7 +266,7 @@ public class SimilarityOptimized extends Configured implements Tool {
 
 
       		  }
-    	  }
+      		}
 
         }
     }
@@ -294,7 +283,7 @@ public class SimilarityOptimized extends Configured implements Tool {
        BufferedReader Reader_count = new BufferedReader(
                  new FileReader(
                           new File(
-                                  "/home/cloudera/workspace/Assignment2/SimilarityOptimized/input/sample.txt"
+                                  "/home/cloudera/workspace/BDPA_Assign2_BXIANG/SimilarityOptimized/input/full_input.txt"
                               )));
           
           String line;
@@ -374,7 +363,7 @@ public class SimilarityOptimized extends Configured implements Tool {
          ListKeyToText.append("@");
          ListKeyToText.append(second_id);
 
-         
+
          // write key similarity if enough similar
          context.write(new Text(ListKeyToText.toString()),new Text(String.valueOf(similarity)));
        }
